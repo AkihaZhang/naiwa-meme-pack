@@ -1,3 +1,5 @@
+> **状态：待人工筛选。** 当前版本为自动初筛，已发现混入部分奶龙造型，尚未完成角色核对。最终素材名单将由维护者人工确认后更新；当前分类与数量仅代表初筛版本。
+
 # 奶蛙表情包 · Naiwa Meme Pack
 
 为 [AstrBot 表情包管理器](https://github.com/anka-afk/astrbot_plugin_meme_manager) 整理的资源包。
