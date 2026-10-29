@@ -1,0 +1,10 @@
+{
+  "format": "astrbot-meme-pack",
+  "format_version": 2,
+  "export_mode": "share",
+  "exported_at": "2026-10-29T10:00:00Z",
+  "features": {
+    "semantic_metadata": true,
+    "vectors": false
+  }
+}
