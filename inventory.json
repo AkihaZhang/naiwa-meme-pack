@@ -1,5 +1,5 @@
 {
-  "created_at": "2026-10-29T10:00:00Z",
+  "created_at": "2026-10-29T10:15:32.604776+00:00",
   "source_repositories": {
     "website": {
       "repo": "Nailong-Studio/NaiLoong-Universe",
@@ -40,36 +40,6 @@
       "sha256": "bbf85a1aae448b2017271d26b8caa3851ec2413a0f611ba88a1ac8cd21b9b1a9",
       "attribution": "attribution/emotes/奶蛙-侧立.png.txt",
       "source_url": "https://github.com/Nailong-Studio/wallpaper/blob/b2898bc2a692897d1934623c2d0842eb035fc457/emotes/奶蛙-侧立.png"
-    },
-    {
-      "index": 3,
-      "source_path": "emotes/奶蛙-动图-含泪.gif",
-      "width": 640,
-      "height": 640,
-      "frames": 8,
-      "bytes": 559189,
-      "path": "memes/sad/奶蛙-动图-含泪.gif",
-      "category": "sad",
-      "category_label": "委屈难过",
-      "caption": "动图：奶蛙眼眶含泪、泪珠滑落，委屈巴巴的循环表情。无水印、无字幕。",
-      "sha256": "eef9a0feb99a27798a341e4933cfd162c3c6869c39a161f0ff71fb80685b46ad",
-      "attribution": "attribution/emotes/奶蛙-动图-含泪.gif.txt",
-      "source_url": "https://github.com/Nailong-Studio/wallpaper/blob/b2898bc2a692897d1934623c2d0842eb035fc457/emotes/奶蛙-动图-含泪.gif"
-    },
-    {
-      "index": 4,
-      "source_path": "emotes/奶蛙-动图-张口大笑.gif",
-      "width": 500,
-      "height": 500,
-      "frames": 15,
-      "bytes": 394542,
-      "path": "memes/happy/奶蛙-动图-张口大笑.gif",
-      "category": "happy",
-      "category_label": "开心大笑",
-      "caption": "动图：奶蛙仰头张口大笑，循环播放。全网筛选出的无水印、无字幕版本。",
-      "sha256": "8dcb223cd9582c3cd4be2621a8a52a98ba0d76f92b8de73913bd0095d53c05b8",
-      "attribution": "attribution/emotes/奶蛙-动图-张口大笑.gif.txt",
-      "source_url": "https://github.com/Nailong-Studio/wallpaper/blob/b2898bc2a692897d1934623c2d0842eb035fc457/emotes/奶蛙-动图-张口大笑.gif"
     },
     {
       "index": 5,
@@ -252,36 +222,6 @@
       "source_url": "https://github.com/Nailong-Studio/wallpaper/blob/b2898bc2a692897d1934623c2d0842eb035fc457/emotes/奶蛙-姿态-露肚.png"
     },
     {
-      "index": 17,
-      "source_path": "emotes/奶蛙-左右张望.gif",
-      "width": 192,
-      "height": 208,
-      "frames": 6,
-      "bytes": 49813,
-      "path": "memes/confused/奶蛙-左右张望.gif",
-      "category": "confused",
-      "category_label": "疑惑张望",
-      "caption": "左看看、右看看，像在确认圣殿里有没有人偷看它摸鱼。",
-      "sha256": "1f584baf4cee5a3e827707dabe9367784d17621cd18010250fad2d625c95a982",
-      "attribution": "attribution/emotes/奶蛙-左右张望.gif.txt",
-      "source_url": "https://github.com/Nailong-Studio/wallpaper/blob/b2898bc2a692897d1934623c2d0842eb035fc457/emotes/奶蛙-左右张望.gif"
-    },
-    {
-      "index": 18,
-      "source_path": "emotes/奶蛙-开心挥手.png",
-      "width": 1254,
-      "height": 1254,
-      "frames": 1,
-      "bytes": 647674,
-      "path": "memes/happy/奶蛙-开心挥手.png",
-      "category": "happy",
-      "category_label": "开心大笑",
-      "caption": "抬起小爪子打招呼，嘴角上扬——今天也要把好心情分你一半。",
-      "sha256": "0d88682805414038ee7207a260ed54b27c1837aaa84dd79fc5c4396240804bef",
-      "attribution": "attribution/emotes/奶蛙-开心挥手.png.txt",
-      "source_url": "https://github.com/Nailong-Studio/wallpaper/blob/b2898bc2a692897d1934623c2d0842eb035fc457/emotes/奶蛙-开心挥手.png"
-    },
-    {
       "index": 19,
       "source_path": "emotes/奶蛙-微愠.png",
       "width": 342,
@@ -400,36 +340,6 @@
       "sha256": "0c54e4a2dbabd490acc8737c037eb22d71b7138d6baf589873d57acd7e2120a5",
       "attribution": "attribution/emotes/奶蛙-捧腹大笑像素.gif.txt",
       "source_url": "https://github.com/Nailong-Studio/wallpaper/blob/b2898bc2a692897d1934623c2d0842eb035fc457/emotes/奶蛙-捧腹大笑像素.gif"
-    },
-    {
-      "index": 27,
-      "source_path": "emotes/奶蛙-斜眼吐舌.jpg",
-      "width": 1500,
-      "height": 1500,
-      "frames": 1,
-      "bytes": 76528,
-      "path": "memes/tease/奶蛙-斜眼吐舌.jpg",
-      "category": "tease",
-      "category_label": "调皮得意",
-      "caption": "表情：奶蛙斜眼向上、吐着舌头，一副得瑟又欠揍的小表情。",
-      "sha256": "76e864ef9ef9c41e30bc0733b0050a2f4ff2635fa4b0f10f85c996af9e64bdb9",
-      "attribution": "attribution/emotes/奶蛙-斜眼吐舌.jpg.txt",
-      "source_url": "https://github.com/Nailong-Studio/wallpaper/blob/b2898bc2a692897d1934623c2d0842eb035fc457/emotes/奶蛙-斜眼吐舌.jpg"
-    },
-    {
-      "index": 28,
-      "source_path": "emotes/奶蛙-桌边微笑.jpg",
-      "width": 1440,
-      "height": 2508,
-      "frames": 1,
-      "bytes": 206260,
-      "path": "memes/greeting/奶蛙-桌边微笑.jpg",
-      "category": "greeting",
-      "category_label": "打招呼互动",
-      "caption": "奶蛙趴在木桌边露出眯眼微笑，像在等你投喂的居家照。",
-      "sha256": "102c1a597f0c5e61eb7cbfe7ff5c7e6c2ae100493d764819b2eed1f2af401f81",
-      "attribution": "attribution/emotes/奶蛙-桌边微笑.jpg.txt",
-      "source_url": "https://github.com/Nailong-Studio/wallpaper/blob/b2898bc2a692897d1934623c2d0842eb035fc457/emotes/奶蛙-桌边微笑.jpg"
     },
     {
       "index": 29,
@@ -942,36 +852,6 @@
       "source_url": "https://github.com/Nailong-Studio/wallpaper/blob/b2898bc2a692897d1934623c2d0842eb035fc457/emotes/奶蛙-蹲坐托腮.png"
     },
     {
-      "index": 66,
-      "source_path": "emotes/奶蛙-露齿大笑.png",
-      "width": 690,
-      "height": 622,
-      "frames": 1,
-      "bytes": 133031,
-      "path": "memes/happy/奶蛙-露齿大笑.png",
-      "category": "happy",
-      "category_label": "开心大笑",
-      "caption": "矮胖身材，张嘴露齿，笑得很用力。",
-      "sha256": "8a791758a27c0acb8fe0d35d42c4f5d92a17110d072a6c14e2b287f54e0417b3",
-      "attribution": "attribution/emotes/奶蛙-露齿大笑.png.txt",
-      "source_url": "https://github.com/Nailong-Studio/wallpaper/blob/b2898bc2a692897d1934623c2d0842eb035fc457/emotes/奶蛙-露齿大笑.png"
-    },
-    {
-      "index": 67,
-      "source_path": "emotes/奶蛙-鼓腮得意.gif",
-      "width": 192,
-      "height": 208,
-      "frames": 6,
-      "bytes": 49242,
-      "path": "memes/tease/奶蛙-鼓腮得意.gif",
-      "category": "tease",
-      "category_label": "调皮得意",
-      "caption": "鼓起腮帮子，眼神得意——这是奶蛙版的「我超厉害」。",
-      "sha256": "9434a7b7d9a4f38085da5ba6a0087da4dfd5c4405a6a5e756201be88fcb0fde0",
-      "attribution": "attribution/emotes/奶蛙-鼓腮得意.gif.txt",
-      "source_url": "https://github.com/Nailong-Studio/wallpaper/blob/b2898bc2a692897d1934623c2d0842eb035fc457/emotes/奶蛙-鼓腮得意.gif"
-    },
-    {
       "index": 68,
       "source_path": "laugh-gallery/奶蛙-亮黄站姿.png",
       "width": 411,
@@ -1000,6 +880,21 @@
       "sha256": "1f77ea64239a4ecdcad7d6de30be9019123f7c1642f65d67182bee3f4a00ba9e",
       "attribution": "attribution/laugh-gallery/奶蛙-仰头捧腹大笑.jpg.txt",
       "source_url": "https://github.com/Nailong-Studio/wallpaper/blob/b2898bc2a692897d1934623c2d0842eb035fc457/laugh-gallery/奶蛙-仰头捧腹大笑.jpg"
+    },
+    {
+      "index": 70,
+      "source_path": "laugh-gallery/奶蛙-叉腰指点.png",
+      "width": 500,
+      "height": 494,
+      "frames": 1,
+      "bytes": 126109,
+      "path": "memes/tease/奶蛙-叉腰指点.png",
+      "category": "tease",
+      "category_label": "调皮得意",
+      "caption": "叉腰指点，笑里带三分指点江山的豪气。",
+      "sha256": "80d1b1eed70894112267c4494feb43247805cc45aa44284503725ce96e0524a2",
+      "attribution": "attribution/laugh-gallery/奶蛙-叉腰指点.png.txt",
+      "source_url": "https://github.com/Nailong-Studio/wallpaper/blob/b2898bc2a692897d1934623c2d0842eb035fc457/laugh-gallery/奶蛙-叉腰指点.png"
     },
     {
       "index": 71,
@@ -1090,6 +985,21 @@
       "sha256": "1ca968503a109ee05282f706999069d65cd8cb2243ac598ba062d29dc24da93a",
       "attribution": "attribution/laugh-gallery/奶蛙-彩虹渐变.png.txt",
       "source_url": "https://github.com/Nailong-Studio/wallpaper/blob/b2898bc2a692897d1934623c2d0842eb035fc457/laugh-gallery/奶蛙-彩虹渐变.png"
+    },
+    {
+      "index": 77,
+      "source_path": "laugh-gallery/奶蛙-抱头大笑.png",
+      "width": 227,
+      "height": 228,
+      "frames": 1,
+      "bytes": 40355,
+      "path": "memes/surprised/奶蛙-抱头大笑.png",
+      "category": "surprised",
+      "category_label": "震惊抱头",
+      "caption": "双手抱头大笑，笑意从头顶炸开。",
+      "sha256": "fe74e22f73922e9166dcfd94881051056d456c712f4dba13b32e9c816db9958f",
+      "attribution": "attribution/laugh-gallery/奶蛙-抱头大笑.png.txt",
+      "source_url": "https://github.com/Nailong-Studio/wallpaper/blob/b2898bc2a692897d1934623c2d0842eb035fc457/laugh-gallery/奶蛙-抱头大笑.png"
     },
     {
       "index": 78,
@@ -1197,19 +1107,34 @@
       "source_url": "https://github.com/Nailong-Studio/wallpaper/blob/b2898bc2a692897d1934623c2d0842eb035fc457/laugh-gallery/奶蛙-眯眼张嘴.png"
     },
     {
-      "index": 86,
-      "source_path": "laugh-gallery/奶蛙-红晕大笑特写.jpg",
-      "width": 2560,
-      "height": 1440,
+      "index": 85,
+      "source_path": "laugh-gallery/奶蛙-粉肤捧腹.png",
+      "width": 690,
+      "height": 661,
       "frames": 1,
-      "bytes": 76234,
-      "path": "memes/happy/奶蛙-红晕大笑特写.jpg",
+      "bytes": 251771,
+      "path": "memes/happy/奶蛙-粉肤捧腹.png",
       "category": "happy",
       "category_label": "开心大笑",
-      "caption": "特写：奶蛙闭眼开怀大笑，脸鼓红晕，笑意从屏幕里溢出来。",
-      "sha256": "a7dedd8683c432c00747c86a62c6591dc82a62fab744266f48c96e5e2c6d17cf",
-      "attribution": "attribution/laugh-gallery/奶蛙-红晕大笑特写.jpg.txt",
-      "source_url": "https://github.com/Nailong-Studio/wallpaper/blob/b2898bc2a692897d1934623c2d0842eb035fc457/laugh-gallery/奶蛙-红晕大笑特写.jpg"
+      "caption": "粉色变体捧腹大笑，换个肤色，快乐不打折。",
+      "sha256": "a69ea6b308f88480ca27127062c25798b4e4230c3f20f2b83046c2dcda969baf",
+      "attribution": "attribution/laugh-gallery/奶蛙-粉肤捧腹.png.txt",
+      "source_url": "https://github.com/Nailong-Studio/wallpaper/blob/b2898bc2a692897d1934623c2d0842eb035fc457/laugh-gallery/奶蛙-粉肤捧腹.png"
+    },
+    {
+      "index": 87,
+      "source_path": "laugh-gallery/奶蛙-银河隐藏款.png",
+      "width": 300,
+      "height": 300,
+      "frames": 1,
+      "bytes": 128808,
+      "path": "memes/happy/奶蛙-银河隐藏款.png",
+      "category": "happy",
+      "category_label": "开心大笑",
+      "caption": "星空文案的隐藏款，每 3.1415926 光年才出现一次。",
+      "sha256": "5dbdbc372dd1a6892b4fb6dbde6a64741f1c20b7e41a846310eca3244cfa9f1f",
+      "attribution": "attribution/laugh-gallery/奶蛙-银河隐藏款.png.txt",
+      "source_url": "https://github.com/Nailong-Studio/wallpaper/blob/b2898bc2a692897d1934623c2d0842eb035fc457/laugh-gallery/奶蛙-银河隐藏款.png"
     },
     {
       "index": 88,
@@ -1302,21 +1227,6 @@
       "source_url": "https://github.com/Nailong-Studio/wallpaper/blob/b2898bc2a692897d1934623c2d0842eb035fc457/pet/奶蛙-桌宠-躺平.gif"
     },
     {
-      "index": 94,
-      "source_path": "poses/奶蛙-姿势-上班族.webp",
-      "width": 1059,
-      "height": 1679,
-      "frames": 1,
-      "bytes": 56020,
-      "path": "memes/work/奶蛙-姿势-上班族.webp",
-      "category": "work",
-      "category_label": "上班学习",
-      "caption": "白衬衫、黑西裤、手里一杯咖啡，奶蛙也要打卡。",
-      "sha256": "03de3fec7673779443ce17238bb3971588a99a9418571ab469a0f8f8b76e44ef",
-      "attribution": "attribution/poses/奶蛙-姿势-上班族.webp.txt",
-      "source_url": "https://github.com/Nailong-Studio/wallpaper/blob/b2898bc2a692897d1934623c2d0842eb035fc457/poses/奶蛙-姿势-上班族.webp"
-    },
-    {
       "index": 95,
       "source_path": "poses/奶蛙-姿势-举旗.webp",
       "width": 1115,
@@ -1345,36 +1255,6 @@
       "sha256": "f0ac0285511815d0cc2b7314cd1530ae5e5f7eb1849d5fd40c3a00831a26a9db",
       "attribution": "attribution/poses/奶蛙-姿势-举杯招手.webp.txt",
       "source_url": "https://github.com/Nailong-Studio/wallpaper/blob/b2898bc2a692897d1934623c2d0842eb035fc457/poses/奶蛙-姿势-举杯招手.webp"
-    },
-    {
-      "index": 97,
-      "source_path": "poses/奶蛙-姿势-侦探.webp",
-      "width": 1059,
-      "height": 1679,
-      "frames": 1,
-      "bytes": 46706,
-      "path": "memes/work/奶蛙-姿势-侦探.webp",
-      "category": "work",
-      "category_label": "上班学习",
-      "caption": "黑礼帽压着墨镜，风衣立领，奶蛙版黑色电影主角。",
-      "sha256": "0b956ba006636bb4409d33ad491bf90969026d401ed88730371ca4ab8296a70b",
-      "attribution": "attribution/poses/奶蛙-姿势-侦探.webp.txt",
-      "source_url": "https://github.com/Nailong-Studio/wallpaper/blob/b2898bc2a692897d1934623c2d0842eb035fc457/poses/奶蛙-姿势-侦探.webp"
-    },
-    {
-      "index": 98,
-      "source_path": "poses/奶蛙-姿势-修女式.webp",
-      "width": 1059,
-      "height": 1679,
-      "frames": 1,
-      "bytes": 45448,
-      "path": "memes/work/奶蛙-姿势-修女式.webp",
-      "category": "work",
-      "category_label": "上班学习",
-      "caption": "黑袍白领、双手合十，奶蛙版修女立绘，一本正经地祈祷快乐降临。",
-      "sha256": "fe327c187bafcf39aad45636a29a520262033a407944922ec6ee626633edc813",
-      "attribution": "attribution/poses/奶蛙-姿势-修女式.webp.txt",
-      "source_url": "https://github.com/Nailong-Studio/wallpaper/blob/b2898bc2a692897d1934623c2d0842eb035fc457/poses/奶蛙-姿势-修女式.webp"
     },
     {
       "index": 99,
@@ -1512,21 +1392,6 @@
       "source_url": "https://github.com/Nailong-Studio/wallpaper/blob/b2898bc2a692897d1934623c2d0842eb035fc457/poses/奶蛙-姿势-抱兔兔.webp"
     },
     {
-      "index": 108,
-      "source_path": "poses/奶蛙-姿势-拄杖.webp",
-      "width": 1059,
-      "height": 1679,
-      "frames": 1,
-      "bytes": 50236,
-      "path": "memes/work/奶蛙-姿势-拄杖.webp",
-      "category": "work",
-      "category_label": "上班学习",
-      "caption": "西装马甲配手杖，奶蛙版老派绅士。",
-      "sha256": "00b247aafaa87cf1990c6f28031190d8bf3ea9b20f5ce07fe1369e056456a095",
-      "attribution": "attribution/poses/奶蛙-姿势-拄杖.webp.txt",
-      "source_url": "https://github.com/Nailong-Studio/wallpaper/blob/b2898bc2a692897d1934623c2d0842eb035fc457/poses/奶蛙-姿势-拄杖.webp"
-    },
-    {
       "index": 109,
       "source_path": "poses/奶蛙-姿势-捧炸鸡.webp",
       "width": 1080,
@@ -1555,21 +1420,6 @@
       "sha256": "7a96a3926f8db59647900c2f204d0d19c83ea7c2ec8557c1fca87e1d3d34b819",
       "attribution": "attribution/poses/奶蛙-姿势-摄影师.webp.txt",
       "source_url": "https://github.com/Nailong-Studio/wallpaper/blob/b2898bc2a692897d1934623c2d0842eb035fc457/poses/奶蛙-姿势-摄影师.webp"
-    },
-    {
-      "index": 111,
-      "source_path": "poses/奶蛙-姿势-朋克头.webp",
-      "width": 1059,
-      "height": 1679,
-      "frames": 1,
-      "bytes": 87794,
-      "path": "memes/work/奶蛙-姿势-朋克头.webp",
-      "category": "work",
-      "category_label": "上班学习",
-      "caption": "紫红莫西干、铆钉皮衣，奶蛙偶尔也想摇滚一次。",
-      "sha256": "d675daee4f5e32ec470b7881ef7499d7c128be3917facd88f67fdde3021cd4f4",
-      "attribution": "attribution/poses/奶蛙-姿势-朋克头.webp.txt",
-      "source_url": "https://github.com/Nailong-Studio/wallpaper/blob/b2898bc2a692897d1934623c2d0842eb035fc457/poses/奶蛙-姿势-朋克头.webp"
     },
     {
       "index": 112,
@@ -1664,32 +1514,72 @@
   ],
   "excluded": [
     {
+      "source_path": "emotes/奶蛙-动图-含泪.gif",
+      "reason": "用户在候选图文件夹中人工删除"
+    },
+    {
+      "source_path": "emotes/奶蛙-动图-张口大笑.gif",
+      "reason": "用户在候选图文件夹中人工删除"
+    },
+    {
+      "source_path": "emotes/奶蛙-左右张望.gif",
+      "reason": "用户在候选图文件夹中人工删除"
+    },
+    {
+      "source_path": "emotes/奶蛙-开心挥手.png",
+      "reason": "用户在候选图文件夹中人工删除"
+    },
+    {
+      "source_path": "emotes/奶蛙-斜眼吐舌.jpg",
+      "reason": "用户在候选图文件夹中人工删除"
+    },
+    {
+      "source_path": "emotes/奶蛙-桌边微笑.jpg",
+      "reason": "用户在候选图文件夹中人工删除"
+    },
+    {
       "source_path": "emotes/奶蛙-立绘-招手.png",
-      "reason": "形象更接近官方奶龙立绘，排除"
+      "reason": "用户在候选图文件夹中人工删除"
     },
     {
       "source_path": "emotes/奶蛙-立绘-站立.png",
-      "reason": "形象更接近官方奶龙立绘，排除"
+      "reason": "用户在候选图文件夹中人工删除"
     },
     {
       "source_path": "emotes/奶蛙-立绘-雀跃.png",
-      "reason": "形象更接近官方奶龙立绘，排除"
+      "reason": "用户在候选图文件夹中人工删除"
     },
     {
-      "source_path": "laugh-gallery/奶蛙-叉腰指点.png",
-      "reason": "与 043 构图近似，保留较高清版本"
+      "source_path": "emotes/奶蛙-露齿大笑.png",
+      "reason": "用户在候选图文件夹中人工删除"
     },
     {
-      "source_path": "laugh-gallery/奶蛙-抱头大笑.png",
-      "reason": "与 044 构图近似，保留较高清版本"
+      "source_path": "emotes/奶蛙-鼓腮得意.gif",
+      "reason": "用户在候选图文件夹中人工删除"
     },
     {
-      "source_path": "laugh-gallery/奶蛙-粉肤捧腹.png",
-      "reason": "与 040 构图近似，保留较高清版本"
+      "source_path": "laugh-gallery/奶蛙-红晕大笑特写.jpg",
+      "reason": "用户在候选图文件夹中人工删除"
     },
     {
-      "source_path": "laugh-gallery/奶蛙-银河隐藏款.png",
-      "reason": "存在大面积推广文字水印，排除"
+      "source_path": "poses/奶蛙-姿势-上班族.webp",
+      "reason": "用户在候选图文件夹中人工删除"
+    },
+    {
+      "source_path": "poses/奶蛙-姿势-侦探.webp",
+      "reason": "用户在候选图文件夹中人工删除"
+    },
+    {
+      "source_path": "poses/奶蛙-姿势-修女式.webp",
+      "reason": "用户在候选图文件夹中人工删除"
+    },
+    {
+      "source_path": "poses/奶蛙-姿势-拄杖.webp",
+      "reason": "用户在候选图文件夹中人工删除"
+    },
+    {
+      "source_path": "poses/奶蛙-姿势-朋克头.webp",
+      "reason": "用户在候选图文件夹中人工删除"
     }
   ]
 }

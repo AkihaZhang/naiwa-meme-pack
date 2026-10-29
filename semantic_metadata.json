@@ -1,10 +1,10 @@
 {
   "schema_version": "2.0",
   "pack_id": "naiwa-meme-pack",
-  "generated_at": "2026-10-29T10:00:00Z",
-  "file_total": 110,
-  "unique_total": 110,
-  "content_unique_total": 110,
+  "generated_at": "2026-10-29T10:15:32.604776+00:00",
+  "file_total": 100,
+  "unique_total": 100,
+  "content_unique_total": 100,
   "images": {
     "3ec57da98530aa75aa2771da735c698c0743b92d041f156ac45653ba3b6bfe8e": {
       "entry_id": "3ec57da98530aa75aa2771da735c698c0743b92d041f156ac45653ba3b6bfe8e",
@@ -38,7 +38,7 @@
         "伸手醒来"
       ],
       "prompt_version": "",
-      "updated_at": "2026-10-29T10:00:00Z"
+      "updated_at": "2026-10-29T10:15:32.604776+00:00"
     },
     "6079c3a924371300dc55e7f1d549dbb35faddefe850e358edbe3505d687cb9ef": {
       "entry_id": "6079c3a924371300dc55e7f1d549dbb35faddefe850e358edbe3505d687cb9ef",
@@ -72,75 +72,7 @@
         "侧立"
       ],
       "prompt_version": "",
-      "updated_at": "2026-10-29T10:00:00Z"
-    },
-    "3c857f6766ff4a0e80346f8368389bf83a768aba5f44ce7909e8c0834636f0a1": {
-      "entry_id": "3c857f6766ff4a0e80346f8368389bf83a768aba5f44ce7909e8c0834636f0a1",
-      "content_sha256": "eef9a0feb99a27798a341e4933cfd162c3c6869c39a161f0ff71fb80685b46ad",
-      "relative_path": "memes/sad/奶蛙-动图-含泪.gif",
-      "category": "sad",
-      "category_description": "委屈难过：委屈、伤心、含泪、失落、需要安慰。",
-      "category_tag": "category:sad",
-      "category_context_hash": "6e9cc1e85b22b49ae0458cfd069ddcb1326d219c320f97f75e7f4d6a00836de0",
-      "category_fit": "match",
-      "category_review_status": "manual_confirmed",
-      "category_review_context_hash": "6e9cc1e85b22b49ae0458cfd069ddcb1326d219c320f97f75e7f4d6a00836de0",
-      "manual_confirmation_context_hash": "6e9cc1e85b22b49ae0458cfd069ddcb1326d219c320f97f75e7f4d6a00836de0",
-      "caption": "动图：奶蛙眼眶含泪、泪珠滑落，委屈巴巴的循环表情。无水印、无字幕。",
-      "tags": [
-        "category:sad",
-        "奶蛙",
-        "委屈难过",
-        "动图",
-        "动图-含泪"
-      ],
-      "visible_text": "",
-      "caption_status": "done",
-      "provenance": "manual",
-      "manual_override": true,
-      "manual_caption": "动图：奶蛙眼眶含泪、泪珠滑落，委屈巴巴的循环表情。无水印、无字幕。",
-      "manual_tags": [
-        "奶蛙",
-        "委屈难过",
-        "动图",
-        "动图-含泪"
-      ],
-      "prompt_version": "",
-      "updated_at": "2026-10-29T10:00:00Z"
-    },
-    "01c50ceca78b358d96ef4224675463135fe433d66878a280ee247896490218f3": {
-      "entry_id": "01c50ceca78b358d96ef4224675463135fe433d66878a280ee247896490218f3",
-      "content_sha256": "8dcb223cd9582c3cd4be2621a8a52a98ba0d76f92b8de73913bd0095d53c05b8",
-      "relative_path": "memes/happy/奶蛙-动图-张口大笑.gif",
-      "category": "happy",
-      "category_description": "开心大笑：开心、哈哈大笑、笑到捧腹、庆祝好事、欢乐斗图。",
-      "category_tag": "category:happy",
-      "category_context_hash": "ebf006dbb88836ba60accd91b149d665d42be2cc0d33456f049308a10766b1ff",
-      "category_fit": "match",
-      "category_review_status": "manual_confirmed",
-      "category_review_context_hash": "ebf006dbb88836ba60accd91b149d665d42be2cc0d33456f049308a10766b1ff",
-      "manual_confirmation_context_hash": "ebf006dbb88836ba60accd91b149d665d42be2cc0d33456f049308a10766b1ff",
-      "caption": "动图：奶蛙仰头张口大笑，循环播放。全网筛选出的无水印、无字幕版本。",
-      "tags": [
-        "category:happy",
-        "奶蛙",
-        "开心大笑",
-        "动图",
-        "动图-张口大笑"
-      ],
-      "visible_text": "",
-      "caption_status": "done",
-      "provenance": "manual",
-      "manual_override": true,
-      "manual_caption": "动图：奶蛙仰头张口大笑，循环播放。全网筛选出的无水印、无字幕版本。",
-      "manual_tags": [
-        "奶蛙",
-        "开心大笑",
-        "动图",
-        "动图-张口大笑"
-      ],
-      "prompt_version": "",
-      "updated_at": "2026-10-29T10:00:00Z"
+      "updated_at": "2026-10-29T10:15:32.604776+00:00"
     },
     "9c75b1484e6a4622011efb5afc1766387620597a25a1159d3e0bc350f1a34f2b": {
       "entry_id": "9c75b1484e6a4622011efb5afc1766387620597a25a1159d3e0bc350f1a34f2b",
@@ -174,7 +106,7 @@
         "动图-西装捂脸"
       ],
       "prompt_version": "",
-      "updated_at": "2026-10-29T10:00:00Z"
+      "updated_at": "2026-10-29T10:15:32.604776+00:00"
     },
     "7950a099ebe22caa6c36af0b49d826987b4bc7f5d1b82746a848fbdad1a38a44": {
       "entry_id": "7950a099ebe22caa6c36af0b49d826987b4bc7f5d1b82746a848fbdad1a38a44",
@@ -208,7 +140,7 @@
         "双V吐舌"
       ],
       "prompt_version": "",
-      "updated_at": "2026-10-29T10:00:00Z"
+      "updated_at": "2026-10-29T10:15:32.604776+00:00"
     },
     "0e8c7c55866e8aa8b5f2eb3c00d6ec86215382b54ab3cb34fc24b84fcce9c7be": {
       "entry_id": "0e8c7c55866e8aa8b5f2eb3c00d6ec86215382b54ab3cb34fc24b84fcce9c7be",
@@ -242,7 +174,7 @@
         "吐舌比心"
       ],
       "prompt_version": "",
-      "updated_at": "2026-10-29T10:00:00Z"
+      "updated_at": "2026-10-29T10:15:32.604776+00:00"
     },
     "bdec6b53c2362b1c96860949fd2ff4e12cb93a6204fcb25522ba47c117871d48": {
       "entry_id": "bdec6b53c2362b1c96860949fd2ff4e12cb93a6204fcb25522ba47c117871d48",
@@ -276,7 +208,7 @@
         "向右爬行"
       ],
       "prompt_version": "",
-      "updated_at": "2026-10-29T10:00:00Z"
+      "updated_at": "2026-10-29T10:15:32.604776+00:00"
     },
     "6855d4e1f8e1160254d366d8dccb24510b145b716472dc7ada69e21b643b1141": {
       "entry_id": "6855d4e1f8e1160254d366d8dccb24510b145b716472dc7ada69e21b643b1141",
@@ -310,7 +242,7 @@
         "向左爬行"
       ],
       "prompt_version": "",
-      "updated_at": "2026-10-29T10:00:00Z"
+      "updated_at": "2026-10-29T10:15:32.604776+00:00"
     },
     "aad2a77788c076be45d2a2df2762aa9545ac3b2bb2359700b02d18feee1fa60a": {
       "entry_id": "aad2a77788c076be45d2a2df2762aa9545ac3b2bb2359700b02d18feee1fa60a",
@@ -344,7 +276,7 @@
         "咬手沉思"
       ],
       "prompt_version": "",
-      "updated_at": "2026-10-29T10:00:00Z"
+      "updated_at": "2026-10-29T10:15:32.604776+00:00"
     },
     "da6ec228af91be6323e0885fbfb56ccc8e625f80882c7657d08916e914fc2acb": {
       "entry_id": "da6ec228af91be6323e0885fbfb56ccc8e625f80882c7657d08916e914fc2acb",
@@ -378,7 +310,7 @@
         "好奇的小奶蛙"
       ],
       "prompt_version": "",
-      "updated_at": "2026-10-29T10:00:00Z"
+      "updated_at": "2026-10-29T10:15:32.604776+00:00"
     },
     "2fb08d83cdadbc47019a5384721cf307e9e85a29df02675d7585fd2acfcd85c6": {
       "entry_id": "2fb08d83cdadbc47019a5384721cf307e9e85a29df02675d7585fd2acfcd85c6",
@@ -412,7 +344,7 @@
         "委屈低落"
       ],
       "prompt_version": "",
-      "updated_at": "2026-10-29T10:00:00Z"
+      "updated_at": "2026-10-29T10:15:32.604776+00:00"
     },
     "629e6d301b18cff52dbb019bf4b600c651992a025d17c7ea695109bd923372b1": {
       "entry_id": "629e6d301b18cff52dbb019bf4b600c651992a025d17c7ea695109bd923372b1",
@@ -446,7 +378,7 @@
         "姿态-侧躺"
       ],
       "prompt_version": "",
-      "updated_at": "2026-10-29T10:00:00Z"
+      "updated_at": "2026-10-29T10:15:32.604776+00:00"
     },
     "78585d9dbcb59aac6ef7d8cbcde1bddfb1d96772dd8e73906cd1e35d20cfed60": {
       "entry_id": "78585d9dbcb59aac6ef7d8cbcde1bddfb1d96772dd8e73906cd1e35d20cfed60",
@@ -480,7 +412,7 @@
         "姿态-挥手"
       ],
       "prompt_version": "",
-      "updated_at": "2026-10-29T10:00:00Z"
+      "updated_at": "2026-10-29T10:15:32.604776+00:00"
     },
     "9b7e37b6f60db0f153e4ccaf699d0b09dfcada0485cd1c920b268cff2930acbb": {
       "entry_id": "9b7e37b6f60db0f153e4ccaf699d0b09dfcada0485cd1c920b268cff2930acbb",
@@ -514,7 +446,7 @@
         "姿态-翻滚"
       ],
       "prompt_version": "",
-      "updated_at": "2026-10-29T10:00:00Z"
+      "updated_at": "2026-10-29T10:15:32.604776+00:00"
     },
     "ce05d8df6af98ae2b789b863a809066065b1e2ba9158fcece5492a1774ae998a": {
       "entry_id": "ce05d8df6af98ae2b789b863a809066065b1e2ba9158fcece5492a1774ae998a",
@@ -548,75 +480,7 @@
         "姿态-露肚"
       ],
       "prompt_version": "",
-      "updated_at": "2026-10-29T10:00:00Z"
-    },
-    "2df2e5aa7734c6860d3fd83d5401ec34b179864236a40cbd170161facdfb59c1": {
-      "entry_id": "2df2e5aa7734c6860d3fd83d5401ec34b179864236a40cbd170161facdfb59c1",
-      "content_sha256": "1f584baf4cee5a3e827707dabe9367784d17621cd18010250fad2d625c95a982",
-      "relative_path": "memes/confused/奶蛙-左右张望.gif",
-      "category": "confused",
-      "category_description": "疑惑张望：没听懂、疑问、左右张望、这是什么、怎么回事。",
-      "category_tag": "category:confused",
-      "category_context_hash": "17cb2a6d55b8e80220e603f6ed245031ea48582cac51f774ffae5dd7c685a171",
-      "category_fit": "match",
-      "category_review_status": "manual_confirmed",
-      "category_review_context_hash": "17cb2a6d55b8e80220e603f6ed245031ea48582cac51f774ffae5dd7c685a171",
-      "manual_confirmation_context_hash": "17cb2a6d55b8e80220e603f6ed245031ea48582cac51f774ffae5dd7c685a171",
-      "caption": "左看看、右看看，像在确认圣殿里有没有人偷看它摸鱼。",
-      "tags": [
-        "category:confused",
-        "奶蛙",
-        "疑惑张望",
-        "动图",
-        "左右张望"
-      ],
-      "visible_text": "",
-      "caption_status": "done",
-      "provenance": "manual",
-      "manual_override": true,
-      "manual_caption": "左看看、右看看，像在确认圣殿里有没有人偷看它摸鱼。",
-      "manual_tags": [
-        "奶蛙",
-        "疑惑张望",
-        "动图",
-        "左右张望"
-      ],
-      "prompt_version": "",
-      "updated_at": "2026-10-29T10:00:00Z"
-    },
-    "56e32b62dd04eb637eee81974dd8bba023ddbb5325c2ad8b75128b5bb08c2150": {
-      "entry_id": "56e32b62dd04eb637eee81974dd8bba023ddbb5325c2ad8b75128b5bb08c2150",
-      "content_sha256": "0d88682805414038ee7207a260ed54b27c1837aaa84dd79fc5c4396240804bef",
-      "relative_path": "memes/happy/奶蛙-开心挥手.png",
-      "category": "happy",
-      "category_description": "开心大笑：开心、哈哈大笑、笑到捧腹、庆祝好事、欢乐斗图。",
-      "category_tag": "category:happy",
-      "category_context_hash": "0efd56af35227aa8fd04ad4a7631295e4991fbf44ec9efceb78383fda016cc1a",
-      "category_fit": "match",
-      "category_review_status": "manual_confirmed",
-      "category_review_context_hash": "0efd56af35227aa8fd04ad4a7631295e4991fbf44ec9efceb78383fda016cc1a",
-      "manual_confirmation_context_hash": "0efd56af35227aa8fd04ad4a7631295e4991fbf44ec9efceb78383fda016cc1a",
-      "caption": "抬起小爪子打招呼，嘴角上扬——今天也要把好心情分你一半。",
-      "tags": [
-        "category:happy",
-        "奶蛙",
-        "开心大笑",
-        "静态图",
-        "开心挥手"
-      ],
-      "visible_text": "",
-      "caption_status": "done",
-      "provenance": "manual",
-      "manual_override": true,
-      "manual_caption": "抬起小爪子打招呼，嘴角上扬——今天也要把好心情分你一半。",
-      "manual_tags": [
-        "奶蛙",
-        "开心大笑",
-        "静态图",
-        "开心挥手"
-      ],
-      "prompt_version": "",
-      "updated_at": "2026-10-29T10:00:00Z"
+      "updated_at": "2026-10-29T10:15:32.604776+00:00"
     },
     "fbddfcc201314d031cc2d7909940ec1075be9b641a688fa503a77b1b69c12a1f": {
       "entry_id": "fbddfcc201314d031cc2d7909940ec1075be9b641a688fa503a77b1b69c12a1f",
@@ -650,7 +514,7 @@
         "微愠"
       ],
       "prompt_version": "",
-      "updated_at": "2026-10-29T10:00:00Z"
+      "updated_at": "2026-10-29T10:15:32.604776+00:00"
     },
     "46975038709922bed18048c33ff501fc22ec6383db029bb6fb24e90a74d3cb19": {
       "entry_id": "46975038709922bed18048c33ff501fc22ec6383db029bb6fb24e90a74d3cb19",
@@ -684,7 +548,7 @@
         "悠闲站立"
       ],
       "prompt_version": "",
-      "updated_at": "2026-10-29T10:00:00Z"
+      "updated_at": "2026-10-29T10:15:32.604776+00:00"
     },
     "f1801b90fe4025fe1b69f1b8efc7e3dbf5548a029d48b2c50d9f462776950aab": {
       "entry_id": "f1801b90fe4025fe1b69f1b8efc7e3dbf5548a029d48b2c50d9f462776950aab",
@@ -718,7 +582,7 @@
         "悬停大笑"
       ],
       "prompt_version": "",
-      "updated_at": "2026-10-29T10:00:00Z"
+      "updated_at": "2026-10-29T10:15:32.604776+00:00"
     },
     "525e9da610e385429a7b19365fdbe7c1818f0193d0ebfb2eb8477cc29e8d8ac1": {
       "entry_id": "525e9da610e385429a7b19365fdbe7c1818f0193d0ebfb2eb8477cc29e8d8ac1",
@@ -752,7 +616,7 @@
         "打哈欠"
       ],
       "prompt_version": "",
-      "updated_at": "2026-10-29T10:00:00Z"
+      "updated_at": "2026-10-29T10:15:32.604776+00:00"
     },
     "344f794a954c1fc0944211fd93376ef6ed800c0075821712f527b7063740c73f": {
       "entry_id": "344f794a954c1fc0944211fd93376ef6ed800c0075821712f527b7063740c73f",
@@ -786,7 +650,7 @@
         "托腮"
       ],
       "prompt_version": "",
-      "updated_at": "2026-10-29T10:00:00Z"
+      "updated_at": "2026-10-29T10:15:32.604776+00:00"
     },
     "679359c8cdfb09abf4dad4174a6b810455e77a51e998ab902230b93b838c6f8e": {
       "entry_id": "679359c8cdfb09abf4dad4174a6b810455e77a51e998ab902230b93b838c6f8e",
@@ -820,7 +684,7 @@
         "托腮思考像素"
       ],
       "prompt_version": "",
-      "updated_at": "2026-10-29T10:00:00Z"
+      "updated_at": "2026-10-29T10:15:32.604776+00:00"
     },
     "895b83a97e76b8523ed8d2210b086472da476fa76c285bc03414d7dbdb43237e": {
       "entry_id": "895b83a97e76b8523ed8d2210b086472da476fa76c285bc03414d7dbdb43237e",
@@ -854,7 +718,7 @@
         "挖鼻孔的小奶蛙"
       ],
       "prompt_version": "",
-      "updated_at": "2026-10-29T10:00:00Z"
+      "updated_at": "2026-10-29T10:15:32.604776+00:00"
     },
     "c324c439764a77f1b30f1fc1b25323aea550e7146af74aa28617ab47a0971109": {
       "entry_id": "c324c439764a77f1b30f1fc1b25323aea550e7146af74aa28617ab47a0971109",
@@ -888,75 +752,7 @@
         "捧腹大笑像素"
       ],
       "prompt_version": "",
-      "updated_at": "2026-10-29T10:00:00Z"
-    },
-    "7c0653c4fa8fbe464379f1f9493c285d938d4fd2352bdc063f1bc43d2e61c55b": {
-      "entry_id": "7c0653c4fa8fbe464379f1f9493c285d938d4fd2352bdc063f1bc43d2e61c55b",
-      "content_sha256": "76e864ef9ef9c41e30bc0733b0050a2f4ff2635fa4b0f10f85c996af9e64bdb9",
-      "relative_path": "memes/tease/奶蛙-斜眼吐舌.jpg",
-      "category": "tease",
-      "category_description": "调皮得意：吐槽、调侃、指点、得意、俏皮恶作剧；适合熟人间轻松互动。",
-      "category_tag": "category:tease",
-      "category_context_hash": "4124af6f2811e5312a9bdc791d54c09d1e5638b6a99db7dad43c61103532af64",
-      "category_fit": "match",
-      "category_review_status": "manual_confirmed",
-      "category_review_context_hash": "4124af6f2811e5312a9bdc791d54c09d1e5638b6a99db7dad43c61103532af64",
-      "manual_confirmation_context_hash": "4124af6f2811e5312a9bdc791d54c09d1e5638b6a99db7dad43c61103532af64",
-      "caption": "表情：奶蛙斜眼向上、吐着舌头，一副得瑟又欠揍的小表情。",
-      "tags": [
-        "category:tease",
-        "奶蛙",
-        "调皮得意",
-        "静态图",
-        "斜眼吐舌"
-      ],
-      "visible_text": "",
-      "caption_status": "done",
-      "provenance": "manual",
-      "manual_override": true,
-      "manual_caption": "表情：奶蛙斜眼向上、吐着舌头，一副得瑟又欠揍的小表情。",
-      "manual_tags": [
-        "奶蛙",
-        "调皮得意",
-        "静态图",
-        "斜眼吐舌"
-      ],
-      "prompt_version": "",
-      "updated_at": "2026-10-29T10:00:00Z"
-    },
-    "6bbaeda56e304a070356c844b979abf22a684a2bf3ac478973c603f57d770c76": {
-      "entry_id": "6bbaeda56e304a070356c844b979abf22a684a2bf3ac478973c603f57d770c76",
-      "content_sha256": "102c1a597f0c5e61eb7cbfe7ff5c7e6c2ae100493d764819b2eed1f2af401f81",
-      "relative_path": "memes/greeting/奶蛙-桌边微笑.jpg",
-      "category": "greeting",
-      "category_description": "打招呼互动：打招呼、嗨、欢迎、挥手、见面问候、微笑回应。",
-      "category_tag": "category:greeting",
-      "category_context_hash": "39da0d7c3563c53cf1dac3d4ad4f9e8cec0619d2ee65662e501377d7cdfa268c",
-      "category_fit": "match",
-      "category_review_status": "manual_confirmed",
-      "category_review_context_hash": "39da0d7c3563c53cf1dac3d4ad4f9e8cec0619d2ee65662e501377d7cdfa268c",
-      "manual_confirmation_context_hash": "39da0d7c3563c53cf1dac3d4ad4f9e8cec0619d2ee65662e501377d7cdfa268c",
-      "caption": "奶蛙趴在木桌边露出眯眼微笑，像在等你投喂的居家照。",
-      "tags": [
-        "category:greeting",
-        "奶蛙",
-        "打招呼互动",
-        "静态图",
-        "桌边微笑"
-      ],
-      "visible_text": "",
-      "caption_status": "done",
-      "provenance": "manual",
-      "manual_override": true,
-      "manual_caption": "奶蛙趴在木桌边露出眯眼微笑，像在等你投喂的居家照。",
-      "manual_tags": [
-        "奶蛙",
-        "打招呼互动",
-        "静态图",
-        "桌边微笑"
-      ],
-      "prompt_version": "",
-      "updated_at": "2026-10-29T10:00:00Z"
+      "updated_at": "2026-10-29T10:15:32.604776+00:00"
     },
     "9b59dab8476401734964a5db4f2124900504a14f136290c9c6b131a1ba7945d7": {
       "entry_id": "9b59dab8476401734964a5db4f2124900504a14f136290c9c6b131a1ba7945d7",
@@ -990,7 +786,7 @@
         "气鼓鼓"
       ],
       "prompt_version": "",
-      "updated_at": "2026-10-29T10:00:00Z"
+      "updated_at": "2026-10-29T10:15:32.604776+00:00"
     },
     "7e5b9df8e014cbca21a2758e0026a21d8068fefc689fa421c3f45841a95a5715": {
       "entry_id": "7e5b9df8e014cbca21a2758e0026a21d8068fefc689fa421c3f45841a95a5715",
@@ -1024,7 +820,7 @@
         "点鼻"
       ],
       "prompt_version": "",
-      "updated_at": "2026-10-29T10:00:00Z"
+      "updated_at": "2026-10-29T10:15:32.604776+00:00"
     },
     "cb31316aea809d8af272b418ff4d0d9915b2f03927fb3e1dd4f310241e7ad1f9": {
       "entry_id": "cb31316aea809d8af272b418ff4d0d9915b2f03927fb3e1dd4f310241e7ad1f9",
@@ -1058,7 +854,7 @@
         "疑惑"
       ],
       "prompt_version": "",
-      "updated_at": "2026-10-29T10:00:00Z"
+      "updated_at": "2026-10-29T10:15:32.604776+00:00"
     },
     "aa4ea336b8917e4f5e4c6cde32448e5d341837b306e00814644abdfdde269ce4": {
       "entry_id": "aa4ea336b8917e4f5e4c6cde32448e5d341837b306e00814644abdfdde269ce4",
@@ -1092,7 +888,7 @@
         "眨眼卖萌"
       ],
       "prompt_version": "",
-      "updated_at": "2026-10-29T10:00:00Z"
+      "updated_at": "2026-10-29T10:15:32.604776+00:00"
     },
     "e7e8fc6c99b27aef1fb267b7204b10cdbbfbb37140395cc5c034f3ca6029b6d3": {
       "entry_id": "e7e8fc6c99b27aef1fb267b7204b10cdbbfbb37140395cc5c034f3ca6029b6d3",
@@ -1126,7 +922,7 @@
         "立正的小奶蛙"
       ],
       "prompt_version": "",
-      "updated_at": "2026-10-29T10:00:00Z"
+      "updated_at": "2026-10-29T10:15:32.604776+00:00"
     },
     "e5695b92144ae9689caae75dcfa721445d7b73abb22bcbb28840d1b0fb8ee8ce": {
       "entry_id": "e5695b92144ae9689caae75dcfa721445d7b73abb22bcbb28840d1b0fb8ee8ce",
@@ -1160,7 +956,7 @@
         "红晕托颌"
       ],
       "prompt_version": "",
-      "updated_at": "2026-10-29T10:00:00Z"
+      "updated_at": "2026-10-29T10:15:32.604776+00:00"
     },
     "26515b38a942549f963e310fd5dd85dcdada67e49dd2d80b60e73441c0adc8e4": {
       "entry_id": "26515b38a942549f963e310fd5dd85dcdada67e49dd2d80b60e73441c0adc8e4",
@@ -1194,7 +990,7 @@
         "胜利欢呼"
       ],
       "prompt_version": "",
-      "updated_at": "2026-10-29T10:00:00Z"
+      "updated_at": "2026-10-29T10:15:32.604776+00:00"
     },
     "53f85c1d2c6b66455ed63aa6bfda5977a0ea9baa0d858b400e31d6318a98d6d4": {
       "entry_id": "53f85c1d2c6b66455ed63aa6bfda5977a0ea9baa0d858b400e31d6318a98d6d4",
@@ -1228,7 +1024,7 @@
         "自信叉腰"
       ],
       "prompt_version": "",
-      "updated_at": "2026-10-29T10:00:00Z"
+      "updated_at": "2026-10-29T10:15:32.604776+00:00"
     },
     "d26393fbe3cf6069f0bba2c82d53de4b3021b16a51625b8a48ae24c6c79d124e": {
       "entry_id": "d26393fbe3cf6069f0bba2c82d53de4b3021b16a51625b8a48ae24c6c79d124e",
@@ -1262,7 +1058,7 @@
         "表情-01"
       ],
       "prompt_version": "",
-      "updated_at": "2026-10-29T10:00:00Z"
+      "updated_at": "2026-10-29T10:15:32.604776+00:00"
     },
     "24f39dcf101a15cfbb8f290ab92d9357ac65a1dc9052d7b958d0676993671154": {
       "entry_id": "24f39dcf101a15cfbb8f290ab92d9357ac65a1dc9052d7b958d0676993671154",
@@ -1296,7 +1092,7 @@
         "表情-02"
       ],
       "prompt_version": "",
-      "updated_at": "2026-10-29T10:00:00Z"
+      "updated_at": "2026-10-29T10:15:32.604776+00:00"
     },
     "76ebdb2a9a2a7a28ff27a05e36c9b851c5dd90d23df0d805b09a57a83836e02e": {
       "entry_id": "76ebdb2a9a2a7a28ff27a05e36c9b851c5dd90d23df0d805b09a57a83836e02e",
@@ -1330,7 +1126,7 @@
         "表情-03"
       ],
       "prompt_version": "",
-      "updated_at": "2026-10-29T10:00:00Z"
+      "updated_at": "2026-10-29T10:15:32.604776+00:00"
     },
     "f437921ee9313d9fea78f74653441d9f0c67adf232d9de23d114da1753c1d7b9": {
       "entry_id": "f437921ee9313d9fea78f74653441d9f0c67adf232d9de23d114da1753c1d7b9",
@@ -1364,7 +1160,7 @@
         "表情-04"
       ],
       "prompt_version": "",
-      "updated_at": "2026-10-29T10:00:00Z"
+      "updated_at": "2026-10-29T10:15:32.604776+00:00"
     },
     "ef65170ff8f5ec85fa1d98fbf29e4701bf46c31da1acf1d0dea7708a00bbf48a": {
       "entry_id": "ef65170ff8f5ec85fa1d98fbf29e4701bf46c31da1acf1d0dea7708a00bbf48a",
@@ -1398,7 +1194,7 @@
         "表情-05"
       ],
       "prompt_version": "",
-      "updated_at": "2026-10-29T10:00:00Z"
+      "updated_at": "2026-10-29T10:15:32.604776+00:00"
     },
     "94a60896e6bf6d13b16e5db1f69dac0a8cebec3b8033dc6b18f0e8d74d4d0f1b": {
       "entry_id": "94a60896e6bf6d13b16e5db1f69dac0a8cebec3b8033dc6b18f0e8d74d4d0f1b",
@@ -1432,7 +1228,7 @@
         "表情-06"
       ],
       "prompt_version": "",
-      "updated_at": "2026-10-29T10:00:00Z"
+      "updated_at": "2026-10-29T10:15:32.604776+00:00"
     },
     "504c5c9b97318b0a4c0f044e8074480b20432569c398033c1434e5ae9e5c84b8": {
       "entry_id": "504c5c9b97318b0a4c0f044e8074480b20432569c398033c1434e5ae9e5c84b8",
@@ -1466,7 +1262,7 @@
         "表情-07"
       ],
       "prompt_version": "",
-      "updated_at": "2026-10-29T10:00:00Z"
+      "updated_at": "2026-10-29T10:15:32.604776+00:00"
     },
     "235e7747fd5fbe578a4cf413510545cf41ff41aad7a56be0e83317a2a0a802e4": {
       "entry_id": "235e7747fd5fbe578a4cf413510545cf41ff41aad7a56be0e83317a2a0a802e4",
@@ -1500,7 +1296,7 @@
         "表情-08"
       ],
       "prompt_version": "",
-      "updated_at": "2026-10-29T10:00:00Z"
+      "updated_at": "2026-10-29T10:15:32.604776+00:00"
     },
     "030bb62f2a3f805c5f5f09ffc63424e1f31b1a5b948cc535c5a865c4d24250d0": {
       "entry_id": "030bb62f2a3f805c5f5f09ffc63424e1f31b1a5b948cc535c5a865c4d24250d0",
@@ -1534,7 +1330,7 @@
         "表情-09"
       ],
       "prompt_version": "",
-      "updated_at": "2026-10-29T10:00:00Z"
+      "updated_at": "2026-10-29T10:15:32.604776+00:00"
     },
     "f55bcfb60541655d1ce86b99ec4e8b159a08d0880284e80302e05f964de2f991": {
       "entry_id": "f55bcfb60541655d1ce86b99ec4e8b159a08d0880284e80302e05f964de2f991",
@@ -1568,7 +1364,7 @@
         "表情-10"
       ],
       "prompt_version": "",
-      "updated_at": "2026-10-29T10:00:00Z"
+      "updated_at": "2026-10-29T10:15:32.604776+00:00"
     },
     "40d6ec7f0d3acadfdb09d7c1504be1c154f37b077ca22ab62df0519ea9ff02cd": {
       "entry_id": "40d6ec7f0d3acadfdb09d7c1504be1c154f37b077ca22ab62df0519ea9ff02cd",
@@ -1602,7 +1398,7 @@
         "表情-11"
       ],
       "prompt_version": "",
-      "updated_at": "2026-10-29T10:00:00Z"
+      "updated_at": "2026-10-29T10:15:32.604776+00:00"
     },
     "2c4bf395c2031d0be130ca6d30530908087abf3a91e5eab57144364fd6cc3c0e": {
       "entry_id": "2c4bf395c2031d0be130ca6d30530908087abf3a91e5eab57144364fd6cc3c0e",
@@ -1636,7 +1432,7 @@
         "表情-12"
       ],
       "prompt_version": "",
-      "updated_at": "2026-10-29T10:00:00Z"
+      "updated_at": "2026-10-29T10:15:32.604776+00:00"
     },
     "80c4e2d8df089193f03f5e0e7c39a14a05f1dbfba750164c37f22a8c43d2883e": {
       "entry_id": "80c4e2d8df089193f03f5e0e7c39a14a05f1dbfba750164c37f22a8c43d2883e",
@@ -1670,7 +1466,7 @@
         "表情-13"
       ],
       "prompt_version": "",
-      "updated_at": "2026-10-29T10:00:00Z"
+      "updated_at": "2026-10-29T10:15:32.604776+00:00"
     },
     "b86a879206a6627ba8351ab7f0fa9fbfb6f31c988f047bb9e34a84fd3fc8ba5b": {
       "entry_id": "b86a879206a6627ba8351ab7f0fa9fbfb6f31c988f047bb9e34a84fd3fc8ba5b",
@@ -1704,7 +1500,7 @@
         "表情-14"
       ],
       "prompt_version": "",
-      "updated_at": "2026-10-29T10:00:00Z"
+      "updated_at": "2026-10-29T10:15:32.604776+00:00"
     },
     "5cf3878b528e29074e0c457a8e28706cffef36c503f198a0b7037e9edf1902bf": {
       "entry_id": "5cf3878b528e29074e0c457a8e28706cffef36c503f198a0b7037e9edf1902bf",
@@ -1738,7 +1534,7 @@
         "表情-15"
       ],
       "prompt_version": "",
-      "updated_at": "2026-10-29T10:00:00Z"
+      "updated_at": "2026-10-29T10:15:32.604776+00:00"
     },
     "46b366dcd332dca704606a1f918cf06ca23af746e2c53600c1c6876de9e6e6de": {
       "entry_id": "46b366dcd332dca704606a1f918cf06ca23af746e2c53600c1c6876de9e6e6de",
@@ -1772,7 +1568,7 @@
         "表情-16"
       ],
       "prompt_version": "",
-      "updated_at": "2026-10-29T10:00:00Z"
+      "updated_at": "2026-10-29T10:15:32.604776+00:00"
     },
     "6b0e9e8343bc253f8cb160b9b343ea98d5191e158a2051c3c566bb6061c3caf0": {
       "entry_id": "6b0e9e8343bc253f8cb160b9b343ea98d5191e158a2051c3c566bb6061c3caf0",
@@ -1806,7 +1602,7 @@
         "表情-17"
       ],
       "prompt_version": "",
-      "updated_at": "2026-10-29T10:00:00Z"
+      "updated_at": "2026-10-29T10:15:32.604776+00:00"
     },
     "a1cf9cc4066f883a794604011da9dc8e7f77e0e21bcf6a2d2f371075a0a37162": {
       "entry_id": "a1cf9cc4066f883a794604011da9dc8e7f77e0e21bcf6a2d2f371075a0a37162",
@@ -1840,7 +1636,7 @@
         "表情-18"
       ],
       "prompt_version": "",
-      "updated_at": "2026-10-29T10:00:00Z"
+      "updated_at": "2026-10-29T10:15:32.604776+00:00"
     },
     "3fd9c974f3f0c757705c3d46d47116050a5b86a582d06bacb213dff3f1c99da6": {
       "entry_id": "3fd9c974f3f0c757705c3d46d47116050a5b86a582d06bacb213dff3f1c99da6",
@@ -1874,7 +1670,7 @@
         "表情-19"
       ],
       "prompt_version": "",
-      "updated_at": "2026-10-29T10:00:00Z"
+      "updated_at": "2026-10-29T10:15:32.604776+00:00"
     },
     "609ff9a725f15bd41fd4d43d74876f32fece88d05914c29398a51b34ea20bfaf": {
       "entry_id": "609ff9a725f15bd41fd4d43d74876f32fece88d05914c29398a51b34ea20bfaf",
@@ -1908,7 +1704,7 @@
         "表情-20"
       ],
       "prompt_version": "",
-      "updated_at": "2026-10-29T10:00:00Z"
+      "updated_at": "2026-10-29T10:15:32.604776+00:00"
     },
     "6ef7b0595230c049dc43748a0022e270ca0eabfc3f8c243d430cd7f156e03aad": {
       "entry_id": "6ef7b0595230c049dc43748a0022e270ca0eabfc3f8c243d430cd7f156e03aad",
@@ -1942,7 +1738,7 @@
         "表情-21"
       ],
       "prompt_version": "",
-      "updated_at": "2026-10-29T10:00:00Z"
+      "updated_at": "2026-10-29T10:15:32.604776+00:00"
     },
     "6a88da6a7bf1d15199796d4f849b9c8987f768f786cb7aa455a6d53c0cbc8e48": {
       "entry_id": "6a88da6a7bf1d15199796d4f849b9c8987f768f786cb7aa455a6d53c0cbc8e48",
@@ -1976,7 +1772,7 @@
         "表情-22"
       ],
       "prompt_version": "",
-      "updated_at": "2026-10-29T10:00:00Z"
+      "updated_at": "2026-10-29T10:15:32.604776+00:00"
     },
     "001dd3d8d06db62ee9c92db095fe816860cdffc44242a0f98923ee1df64cef7c": {
       "entry_id": "001dd3d8d06db62ee9c92db095fe816860cdffc44242a0f98923ee1df64cef7c",
@@ -2010,7 +1806,7 @@
         "表情-23"
       ],
       "prompt_version": "",
-      "updated_at": "2026-10-29T10:00:00Z"
+      "updated_at": "2026-10-29T10:15:32.604776+00:00"
     },
     "d05449e2629bdbe18a5c35f975893144b2e426df0c0d8bbff219012cd3f6f0b8": {
       "entry_id": "d05449e2629bdbe18a5c35f975893144b2e426df0c0d8bbff219012cd3f6f0b8",
@@ -2044,7 +1840,7 @@
         "表情-24"
       ],
       "prompt_version": "",
-      "updated_at": "2026-10-29T10:00:00Z"
+      "updated_at": "2026-10-29T10:15:32.604776+00:00"
     },
     "96d7b89c0d4d07d83c18640ef7053635eaa1984254f95766cf08435a8d5df660": {
       "entry_id": "96d7b89c0d4d07d83c18640ef7053635eaa1984254f95766cf08435a8d5df660",
@@ -2078,7 +1874,7 @@
         "表情-25"
       ],
       "prompt_version": "",
-      "updated_at": "2026-10-29T10:00:00Z"
+      "updated_at": "2026-10-29T10:15:32.604776+00:00"
     },
     "5309906698646fb1741f90d848fa7cb805ef6ca1fe054c41ad12dc79af03a947": {
       "entry_id": "5309906698646fb1741f90d848fa7cb805ef6ca1fe054c41ad12dc79af03a947",
@@ -2112,75 +1908,7 @@
         "蹲坐托腮"
       ],
       "prompt_version": "",
-      "updated_at": "2026-10-29T10:00:00Z"
-    },
-    "d956356612ce90a4e5869cd6add364764ecd2b58ee8d29cbe86bd7483b4a9f9a": {
-      "entry_id": "d956356612ce90a4e5869cd6add364764ecd2b58ee8d29cbe86bd7483b4a9f9a",
-      "content_sha256": "8a791758a27c0acb8fe0d35d42c4f5d92a17110d072a6c14e2b287f54e0417b3",
-      "relative_path": "memes/happy/奶蛙-露齿大笑.png",
-      "category": "happy",
-      "category_description": "开心大笑：开心、哈哈大笑、笑到捧腹、庆祝好事、欢乐斗图。",
-      "category_tag": "category:happy",
-      "category_context_hash": "17325c52c123ddb140149c5564358a1bded9332acd5f35cf7f46c9848e9cd71f",
-      "category_fit": "match",
-      "category_review_status": "manual_confirmed",
-      "category_review_context_hash": "17325c52c123ddb140149c5564358a1bded9332acd5f35cf7f46c9848e9cd71f",
-      "manual_confirmation_context_hash": "17325c52c123ddb140149c5564358a1bded9332acd5f35cf7f46c9848e9cd71f",
-      "caption": "矮胖身材，张嘴露齿，笑得很用力。",
-      "tags": [
-        "category:happy",
-        "奶蛙",
-        "开心大笑",
-        "静态图",
-        "露齿大笑"
-      ],
-      "visible_text": "",
-      "caption_status": "done",
-      "provenance": "manual",
-      "manual_override": true,
-      "manual_caption": "矮胖身材，张嘴露齿，笑得很用力。",
-      "manual_tags": [
-        "奶蛙",
-        "开心大笑",
-        "静态图",
-        "露齿大笑"
-      ],
-      "prompt_version": "",
-      "updated_at": "2026-10-29T10:00:00Z"
-    },
-    "30f72e67000521902124881ff4057471208e6e3cfd7f8e97d4b156fd91d67b8c": {
-      "entry_id": "30f72e67000521902124881ff4057471208e6e3cfd7f8e97d4b156fd91d67b8c",
-      "content_sha256": "9434a7b7d9a4f38085da5ba6a0087da4dfd5c4405a6a5e756201be88fcb0fde0",
-      "relative_path": "memes/tease/奶蛙-鼓腮得意.gif",
-      "category": "tease",
-      "category_description": "调皮得意：吐槽、调侃、指点、得意、俏皮恶作剧；适合熟人间轻松互动。",
-      "category_tag": "category:tease",
-      "category_context_hash": "0b39e0ea5ab93f2438aeb842d12040547d0954796fa1a4b4d5fbf7c6198d01fd",
-      "category_fit": "match",
-      "category_review_status": "manual_confirmed",
-      "category_review_context_hash": "0b39e0ea5ab93f2438aeb842d12040547d0954796fa1a4b4d5fbf7c6198d01fd",
-      "manual_confirmation_context_hash": "0b39e0ea5ab93f2438aeb842d12040547d0954796fa1a4b4d5fbf7c6198d01fd",
-      "caption": "鼓起腮帮子，眼神得意——这是奶蛙版的「我超厉害」。",
-      "tags": [
-        "category:tease",
-        "奶蛙",
-        "调皮得意",
-        "动图",
-        "鼓腮得意"
-      ],
-      "visible_text": "",
-      "caption_status": "done",
-      "provenance": "manual",
-      "manual_override": true,
-      "manual_caption": "鼓起腮帮子，眼神得意——这是奶蛙版的「我超厉害」。",
-      "manual_tags": [
-        "奶蛙",
-        "调皮得意",
-        "动图",
-        "鼓腮得意"
-      ],
-      "prompt_version": "",
-      "updated_at": "2026-10-29T10:00:00Z"
+      "updated_at": "2026-10-29T10:15:32.604776+00:00"
     },
     "f0b6d71e327f0552705a9fd9addba7b9ae85a99ec16f11c10d1e0df15c7e18f8": {
       "entry_id": "f0b6d71e327f0552705a9fd9addba7b9ae85a99ec16f11c10d1e0df15c7e18f8",
@@ -2214,7 +1942,7 @@
         "亮黄站姿"
       ],
       "prompt_version": "",
-      "updated_at": "2026-10-29T10:00:00Z"
+      "updated_at": "2026-10-29T10:15:32.604776+00:00"
     },
     "d1d72b69d8f2e022d44729634e985dddb5daf7e18bde61d2d60ed1573c36c8b9": {
       "entry_id": "d1d72b69d8f2e022d44729634e985dddb5daf7e18bde61d2d60ed1573c36c8b9",
@@ -2248,7 +1976,41 @@
         "仰头捧腹大笑"
       ],
       "prompt_version": "",
-      "updated_at": "2026-10-29T10:00:00Z"
+      "updated_at": "2026-10-29T10:15:32.604776+00:00"
+    },
+    "916fb1678ca5051b423c81efce6fd42edd86a6257e0faf19ab794f2c9f520ff1": {
+      "entry_id": "916fb1678ca5051b423c81efce6fd42edd86a6257e0faf19ab794f2c9f520ff1",
+      "content_sha256": "80d1b1eed70894112267c4494feb43247805cc45aa44284503725ce96e0524a2",
+      "relative_path": "memes/tease/奶蛙-叉腰指点.png",
+      "category": "tease",
+      "category_description": "调皮得意：吐槽、调侃、指点、得意、俏皮恶作剧；适合熟人间轻松互动。",
+      "category_tag": "category:tease",
+      "category_context_hash": "7a24892935a7ea24965298a0098b30430e242b0433c33a5f22c9ebc8f9280893",
+      "category_fit": "match",
+      "category_review_status": "manual_confirmed",
+      "category_review_context_hash": "7a24892935a7ea24965298a0098b30430e242b0433c33a5f22c9ebc8f9280893",
+      "manual_confirmation_context_hash": "7a24892935a7ea24965298a0098b30430e242b0433c33a5f22c9ebc8f9280893",
+      "caption": "叉腰指点，笑里带三分指点江山的豪气。",
+      "tags": [
+        "category:tease",
+        "奶蛙",
+        "调皮得意",
+        "静态图",
+        "叉腰指点"
+      ],
+      "visible_text": "",
+      "caption_status": "done",
+      "provenance": "manual",
+      "manual_override": true,
+      "manual_caption": "叉腰指点，笑里带三分指点江山的豪气。",
+      "manual_tags": [
+        "奶蛙",
+        "调皮得意",
+        "静态图",
+        "叉腰指点"
+      ],
+      "prompt_version": "",
+      "updated_at": "2026-10-29T10:15:32.604776+00:00"
     },
     "ffe4a51f69f35235408e545d502105ed17ca45296b87495ff55993bcd4e040d2": {
       "entry_id": "ffe4a51f69f35235408e545d502105ed17ca45296b87495ff55993bcd4e040d2",
@@ -2282,7 +2044,7 @@
         "双V大笑"
       ],
       "prompt_version": "",
-      "updated_at": "2026-10-29T10:00:00Z"
+      "updated_at": "2026-10-29T10:15:32.604776+00:00"
     },
     "8c9fc50488e6afd7d375dcb64f57a53ac5e42f6bcaa80770e8d3c40149d3257e": {
       "entry_id": "8c9fc50488e6afd7d375dcb64f57a53ac5e42f6bcaa80770e8d3c40149d3257e",
@@ -2316,7 +2078,7 @@
         "哪吒"
       ],
       "prompt_version": "",
-      "updated_at": "2026-10-29T10:00:00Z"
+      "updated_at": "2026-10-29T10:15:32.604776+00:00"
     },
     "df5cb11c4a4bdc8cbe860fcbe11511904815807072dfed1e0637b073cbe7aa6c": {
       "entry_id": "df5cb11c4a4bdc8cbe860fcbe11511904815807072dfed1e0637b073cbe7aa6c",
@@ -2350,7 +2112,7 @@
         "四肢着地"
       ],
       "prompt_version": "",
-      "updated_at": "2026-10-29T10:00:00Z"
+      "updated_at": "2026-10-29T10:15:32.604776+00:00"
     },
     "84f16eebda72f4f06d7076f6ec11bda1624ae4ae773476d36cd5ebe2492b6d0e": {
       "entry_id": "84f16eebda72f4f06d7076f6ec11bda1624ae4ae773476d36cd5ebe2492b6d0e",
@@ -2384,7 +2146,7 @@
         "圣诞老人"
       ],
       "prompt_version": "",
-      "updated_at": "2026-10-29T10:00:00Z"
+      "updated_at": "2026-10-29T10:15:32.604776+00:00"
     },
     "bca3663d37f0b42d2afe8a4120ac48e6194f6ebe73049af43a6966d26f588661": {
       "entry_id": "bca3663d37f0b42d2afe8a4120ac48e6194f6ebe73049af43a6966d26f588661",
@@ -2418,7 +2180,7 @@
         "弯腰大笑"
       ],
       "prompt_version": "",
-      "updated_at": "2026-10-29T10:00:00Z"
+      "updated_at": "2026-10-29T10:15:32.604776+00:00"
     },
     "3f9aa7dcb17bd5c9f172d21300b64959674b7203f38cbdc8d5f6f1fa1e5bc546": {
       "entry_id": "3f9aa7dcb17bd5c9f172d21300b64959674b7203f38cbdc8d5f6f1fa1e5bc546",
@@ -2452,7 +2214,41 @@
         "彩虹渐变"
       ],
       "prompt_version": "",
-      "updated_at": "2026-10-29T10:00:00Z"
+      "updated_at": "2026-10-29T10:15:32.604776+00:00"
+    },
+    "3def6b205331c13185ef818ddc4f5a5484995c7b3a93e57a50758914ccc39757": {
+      "entry_id": "3def6b205331c13185ef818ddc4f5a5484995c7b3a93e57a50758914ccc39757",
+      "content_sha256": "fe74e22f73922e9166dcfd94881051056d456c712f4dba13b32e9c816db9958f",
+      "relative_path": "memes/surprised/奶蛙-抱头大笑.png",
+      "category": "surprised",
+      "category_description": "震惊抱头：震惊、意外、不敢相信、惊讶到抱头。",
+      "category_tag": "category:surprised",
+      "category_context_hash": "1714a2b240ad37afbc5a17cfdb83c15e8323e34d2d07d9f156f8afd46ec24b59",
+      "category_fit": "match",
+      "category_review_status": "manual_confirmed",
+      "category_review_context_hash": "1714a2b240ad37afbc5a17cfdb83c15e8323e34d2d07d9f156f8afd46ec24b59",
+      "manual_confirmation_context_hash": "1714a2b240ad37afbc5a17cfdb83c15e8323e34d2d07d9f156f8afd46ec24b59",
+      "caption": "双手抱头大笑，笑意从头顶炸开。",
+      "tags": [
+        "category:surprised",
+        "奶蛙",
+        "震惊抱头",
+        "静态图",
+        "抱头大笑"
+      ],
+      "visible_text": "",
+      "caption_status": "done",
+      "provenance": "manual",
+      "manual_override": true,
+      "manual_caption": "双手抱头大笑，笑意从头顶炸开。",
+      "manual_tags": [
+        "奶蛙",
+        "震惊抱头",
+        "静态图",
+        "抱头大笑"
+      ],
+      "prompt_version": "",
+      "updated_at": "2026-10-29T10:15:32.604776+00:00"
     },
     "040aa1f8bfecd2d1db8a82688bfdadb5d808f95f63e0e876e414c942abc86ffd": {
       "entry_id": "040aa1f8bfecd2d1db8a82688bfdadb5d808f95f63e0e876e414c942abc86ffd",
@@ -2486,7 +2282,7 @@
         "抱婴大笑"
       ],
       "prompt_version": "",
-      "updated_at": "2026-10-29T10:00:00Z"
+      "updated_at": "2026-10-29T10:15:32.604776+00:00"
     },
     "cda2da88841bba744e7145f110f337be8e4aeb6e456b9061952c79025dcc66d8": {
       "entry_id": "cda2da88841bba744e7145f110f337be8e4aeb6e456b9061952c79025dcc66d8",
@@ -2520,7 +2316,7 @@
         "拍墙大笑"
       ],
       "prompt_version": "",
-      "updated_at": "2026-10-29T10:00:00Z"
+      "updated_at": "2026-10-29T10:15:32.604776+00:00"
     },
     "2ae3fb965d6309eee41994184ea5c643ffa4f20e62118cf13af33ce94af32fb6": {
       "entry_id": "2ae3fb965d6309eee41994184ea5c643ffa4f20e62118cf13af33ce94af32fb6",
@@ -2554,7 +2350,7 @@
         "指你大笑"
       ],
       "prompt_version": "",
-      "updated_at": "2026-10-29T10:00:00Z"
+      "updated_at": "2026-10-29T10:15:32.604776+00:00"
     },
     "5db78ca9402abe8fb4a53843ec63a8be0580efb07f95168ec326212944c2689c": {
       "entry_id": "5db78ca9402abe8fb4a53843ec63a8be0580efb07f95168ec326212944c2689c",
@@ -2588,7 +2384,7 @@
         "橙肤捧腹"
       ],
       "prompt_version": "",
-      "updated_at": "2026-10-29T10:00:00Z"
+      "updated_at": "2026-10-29T10:15:32.604776+00:00"
     },
     "51b1969e04f2daeca31240201306e39b03d0d44a92c74cb9e13b103de1675df7": {
       "entry_id": "51b1969e04f2daeca31240201306e39b03d0d44a92c74cb9e13b103de1675df7",
@@ -2622,7 +2418,7 @@
         "狐面和服"
       ],
       "prompt_version": "",
-      "updated_at": "2026-10-29T10:00:00Z"
+      "updated_at": "2026-10-29T10:15:32.604776+00:00"
     },
     "f5b043527363e134100a60dedc397ce50228f502be7b7cf6389e73de9ddbb65e": {
       "entry_id": "f5b043527363e134100a60dedc397ce50228f502be7b7cf6389e73de9ddbb65e",
@@ -2656,7 +2452,7 @@
         "白肤捧腹"
       ],
       "prompt_version": "",
-      "updated_at": "2026-10-29T10:00:00Z"
+      "updated_at": "2026-10-29T10:15:32.604776+00:00"
     },
     "7205763066cd6ddb83a178f0ce61487147f33e0e56884a4e04dae25cafdaa021": {
       "entry_id": "7205763066cd6ddb83a178f0ce61487147f33e0e56884a4e04dae25cafdaa021",
@@ -2690,41 +2486,75 @@
         "眯眼张嘴"
       ],
       "prompt_version": "",
-      "updated_at": "2026-10-29T10:00:00Z"
+      "updated_at": "2026-10-29T10:15:32.604776+00:00"
     },
-    "75d8018982dd8c6308ba14703d098fd2621189d2bea3ad620fcd0624309f229c": {
-      "entry_id": "75d8018982dd8c6308ba14703d098fd2621189d2bea3ad620fcd0624309f229c",
-      "content_sha256": "a7dedd8683c432c00747c86a62c6591dc82a62fab744266f48c96e5e2c6d17cf",
-      "relative_path": "memes/happy/奶蛙-红晕大笑特写.jpg",
+    "6c41ca45bf7387f9297bc098f6f8cd4d0053b2d1e46c97f25b1f2100b1ceb35b": {
+      "entry_id": "6c41ca45bf7387f9297bc098f6f8cd4d0053b2d1e46c97f25b1f2100b1ceb35b",
+      "content_sha256": "a69ea6b308f88480ca27127062c25798b4e4230c3f20f2b83046c2dcda969baf",
+      "relative_path": "memes/happy/奶蛙-粉肤捧腹.png",
       "category": "happy",
       "category_description": "开心大笑：开心、哈哈大笑、笑到捧腹、庆祝好事、欢乐斗图。",
       "category_tag": "category:happy",
-      "category_context_hash": "88de5a823d4231b9ce76eb4a5311bc64b337442a19c6ed51ba99b5be170ecdf3",
+      "category_context_hash": "2ddc7f808e677e88fca9c267848cb7902d42a012c8646182b5ecd92e0993782f",
       "category_fit": "match",
       "category_review_status": "manual_confirmed",
-      "category_review_context_hash": "88de5a823d4231b9ce76eb4a5311bc64b337442a19c6ed51ba99b5be170ecdf3",
-      "manual_confirmation_context_hash": "88de5a823d4231b9ce76eb4a5311bc64b337442a19c6ed51ba99b5be170ecdf3",
-      "caption": "特写：奶蛙闭眼开怀大笑，脸鼓红晕，笑意从屏幕里溢出来。",
+      "category_review_context_hash": "2ddc7f808e677e88fca9c267848cb7902d42a012c8646182b5ecd92e0993782f",
+      "manual_confirmation_context_hash": "2ddc7f808e677e88fca9c267848cb7902d42a012c8646182b5ecd92e0993782f",
+      "caption": "粉色变体捧腹大笑，换个肤色，快乐不打折。",
       "tags": [
         "category:happy",
         "奶蛙",
         "开心大笑",
         "静态图",
-        "红晕大笑特写"
+        "粉肤捧腹"
       ],
       "visible_text": "",
       "caption_status": "done",
       "provenance": "manual",
       "manual_override": true,
-      "manual_caption": "特写：奶蛙闭眼开怀大笑，脸鼓红晕，笑意从屏幕里溢出来。",
+      "manual_caption": "粉色变体捧腹大笑，换个肤色，快乐不打折。",
       "manual_tags": [
         "奶蛙",
         "开心大笑",
         "静态图",
-        "红晕大笑特写"
+        "粉肤捧腹"
       ],
       "prompt_version": "",
-      "updated_at": "2026-10-29T10:00:00Z"
+      "updated_at": "2026-10-29T10:15:32.604776+00:00"
+    },
+    "40a04490ee27053426eca8eb026f93ebc9a725f55bd04d7a350affc115cfba4b": {
+      "entry_id": "40a04490ee27053426eca8eb026f93ebc9a725f55bd04d7a350affc115cfba4b",
+      "content_sha256": "5dbdbc372dd1a6892b4fb6dbde6a64741f1c20b7e41a846310eca3244cfa9f1f",
+      "relative_path": "memes/happy/奶蛙-银河隐藏款.png",
+      "category": "happy",
+      "category_description": "开心大笑：开心、哈哈大笑、笑到捧腹、庆祝好事、欢乐斗图。",
+      "category_tag": "category:happy",
+      "category_context_hash": "0e69fda7fa2bfc0da9694fefcbd5112d934a60b52f1a96e6e3fed5b9cb9d71d7",
+      "category_fit": "match",
+      "category_review_status": "manual_confirmed",
+      "category_review_context_hash": "0e69fda7fa2bfc0da9694fefcbd5112d934a60b52f1a96e6e3fed5b9cb9d71d7",
+      "manual_confirmation_context_hash": "0e69fda7fa2bfc0da9694fefcbd5112d934a60b52f1a96e6e3fed5b9cb9d71d7",
+      "caption": "星空文案的隐藏款，每 3.1415926 光年才出现一次。",
+      "tags": [
+        "category:happy",
+        "奶蛙",
+        "开心大笑",
+        "静态图",
+        "银河隐藏款"
+      ],
+      "visible_text": "",
+      "caption_status": "done",
+      "provenance": "manual",
+      "manual_override": true,
+      "manual_caption": "星空文案的隐藏款，每 3.1415926 光年才出现一次。",
+      "manual_tags": [
+        "奶蛙",
+        "开心大笑",
+        "静态图",
+        "银河隐藏款"
+      ],
+      "prompt_version": "",
+      "updated_at": "2026-10-29T10:15:32.604776+00:00"
     },
     "b64fe75042a9794eef0a6b028e702017051690ad5cd164576fe17a81b482edf0": {
       "entry_id": "b64fe75042a9794eef0a6b028e702017051690ad5cd164576fe17a81b482edf0",
@@ -2758,7 +2588,7 @@
         "雀跃"
       ],
       "prompt_version": "",
-      "updated_at": "2026-10-29T10:00:00Z"
+      "updated_at": "2026-10-29T10:15:32.604776+00:00"
     },
     "17a712b0541b78dfdc417e817c3cb1f1987e260f680bd6ccc78bf189f582c246": {
       "entry_id": "17a712b0541b78dfdc417e817c3cb1f1987e260f680bd6ccc78bf189f582c246",
@@ -2792,7 +2622,7 @@
         "静站绿眼"
       ],
       "prompt_version": "",
-      "updated_at": "2026-10-29T10:00:00Z"
+      "updated_at": "2026-10-29T10:15:32.604776+00:00"
     },
     "ae77ae2027211ea0cca1330e13c0e9439226d1e87d2d7bf824eb6e7f040aa186": {
       "entry_id": "ae77ae2027211ea0cca1330e13c0e9439226d1e87d2d7bf824eb6e7f040aa186",
@@ -2826,7 +2656,7 @@
         "桌宠-倾听"
       ],
       "prompt_version": "",
-      "updated_at": "2026-10-29T10:00:00Z"
+      "updated_at": "2026-10-29T10:15:32.604776+00:00"
     },
     "e5c3f641a30eb1c33738b4b8d3199fec298095802a3a6aaae1397ad2dbf869e1": {
       "entry_id": "e5c3f641a30eb1c33738b4b8d3199fec298095802a3a6aaae1397ad2dbf869e1",
@@ -2860,7 +2690,7 @@
         "桌宠-待机"
       ],
       "prompt_version": "",
-      "updated_at": "2026-10-29T10:00:00Z"
+      "updated_at": "2026-10-29T10:15:32.604776+00:00"
     },
     "6126b71d8861f4cfc83904c85128ca23ef29058125535630020072c6d75bf3a1": {
       "entry_id": "6126b71d8861f4cfc83904c85128ca23ef29058125535630020072c6d75bf3a1",
@@ -2894,7 +2724,7 @@
         "桌宠-捧腹大笑"
       ],
       "prompt_version": "",
-      "updated_at": "2026-10-29T10:00:00Z"
+      "updated_at": "2026-10-29T10:15:32.604776+00:00"
     },
     "31dfe74facef1288a1289cd92447481db8686d85d09aa9be0d636536ac495296": {
       "entry_id": "31dfe74facef1288a1289cd92447481db8686d85d09aa9be0d636536ac495296",
@@ -2928,41 +2758,7 @@
         "桌宠-躺平"
       ],
       "prompt_version": "",
-      "updated_at": "2026-10-29T10:00:00Z"
-    },
-    "e1672cd823a18d96564d5b942ad1dee95d4c6b5f922fceda721aa747c713d778": {
-      "entry_id": "e1672cd823a18d96564d5b942ad1dee95d4c6b5f922fceda721aa747c713d778",
-      "content_sha256": "03de3fec7673779443ce17238bb3971588a99a9418571ab469a0f8f8b76e44ef",
-      "relative_path": "memes/work/奶蛙-姿势-上班族.webp",
-      "category": "work",
-      "category_description": "上班学习：上班、加班、学习、专业角色扮演、侦探、医生、厨师、摄影师等场景梗。",
-      "category_tag": "category:work",
-      "category_context_hash": "46dad08ff05e9238e6bf201b278058028a173fab9ce6395496cc1b286ad119b1",
-      "category_fit": "match",
-      "category_review_status": "manual_confirmed",
-      "category_review_context_hash": "46dad08ff05e9238e6bf201b278058028a173fab9ce6395496cc1b286ad119b1",
-      "manual_confirmation_context_hash": "46dad08ff05e9238e6bf201b278058028a173fab9ce6395496cc1b286ad119b1",
-      "caption": "白衬衫、黑西裤、手里一杯咖啡，奶蛙也要打卡。",
-      "tags": [
-        "category:work",
-        "奶蛙",
-        "上班学习",
-        "静态图",
-        "姿势-上班族"
-      ],
-      "visible_text": "",
-      "caption_status": "done",
-      "provenance": "manual",
-      "manual_override": true,
-      "manual_caption": "白衬衫、黑西裤、手里一杯咖啡，奶蛙也要打卡。",
-      "manual_tags": [
-        "奶蛙",
-        "上班学习",
-        "静态图",
-        "姿势-上班族"
-      ],
-      "prompt_version": "",
-      "updated_at": "2026-10-29T10:00:00Z"
+      "updated_at": "2026-10-29T10:15:32.604776+00:00"
     },
     "172b33a81b14a407ac55aa7b1b04b94035e1fa99a165df99af1555bab77312d5": {
       "entry_id": "172b33a81b14a407ac55aa7b1b04b94035e1fa99a165df99af1555bab77312d5",
@@ -2996,7 +2792,7 @@
         "姿势-举旗"
       ],
       "prompt_version": "",
-      "updated_at": "2026-10-29T10:00:00Z"
+      "updated_at": "2026-10-29T10:15:32.604776+00:00"
     },
     "0a5a1622e21c3e4aeebfb84c6bdc46bffacb7b875cc3894479512d7ef048e064": {
       "entry_id": "0a5a1622e21c3e4aeebfb84c6bdc46bffacb7b875cc3894479512d7ef048e064",
@@ -3030,75 +2826,7 @@
         "姿势-举杯招手"
       ],
       "prompt_version": "",
-      "updated_at": "2026-10-29T10:00:00Z"
-    },
-    "bba8ebfe84f50bb6d7fa3776d49143aa4c83258d6f9cf7930333f5820ed6a1d0": {
-      "entry_id": "bba8ebfe84f50bb6d7fa3776d49143aa4c83258d6f9cf7930333f5820ed6a1d0",
-      "content_sha256": "0b956ba006636bb4409d33ad491bf90969026d401ed88730371ca4ab8296a70b",
-      "relative_path": "memes/work/奶蛙-姿势-侦探.webp",
-      "category": "work",
-      "category_description": "上班学习：上班、加班、学习、专业角色扮演、侦探、医生、厨师、摄影师等场景梗。",
-      "category_tag": "category:work",
-      "category_context_hash": "84583c1ad351ac6d387a423eaa1313626280ecce532875f1e007b692f18747b1",
-      "category_fit": "match",
-      "category_review_status": "manual_confirmed",
-      "category_review_context_hash": "84583c1ad351ac6d387a423eaa1313626280ecce532875f1e007b692f18747b1",
-      "manual_confirmation_context_hash": "84583c1ad351ac6d387a423eaa1313626280ecce532875f1e007b692f18747b1",
-      "caption": "黑礼帽压着墨镜，风衣立领，奶蛙版黑色电影主角。",
-      "tags": [
-        "category:work",
-        "奶蛙",
-        "上班学习",
-        "静态图",
-        "姿势-侦探"
-      ],
-      "visible_text": "",
-      "caption_status": "done",
-      "provenance": "manual",
-      "manual_override": true,
-      "manual_caption": "黑礼帽压着墨镜，风衣立领，奶蛙版黑色电影主角。",
-      "manual_tags": [
-        "奶蛙",
-        "上班学习",
-        "静态图",
-        "姿势-侦探"
-      ],
-      "prompt_version": "",
-      "updated_at": "2026-10-29T10:00:00Z"
-    },
-    "bb03437ddef464c9c51d2ad6df9f4feb93c6fde3f71c20b12743feeef8a28c29": {
-      "entry_id": "bb03437ddef464c9c51d2ad6df9f4feb93c6fde3f71c20b12743feeef8a28c29",
-      "content_sha256": "fe327c187bafcf39aad45636a29a520262033a407944922ec6ee626633edc813",
-      "relative_path": "memes/work/奶蛙-姿势-修女式.webp",
-      "category": "work",
-      "category_description": "上班学习：上班、加班、学习、专业角色扮演、侦探、医生、厨师、摄影师等场景梗。",
-      "category_tag": "category:work",
-      "category_context_hash": "2157ea737a76b3a6d9e171778f66baa0901167102cd9441a43911f1ebc2ca0fe",
-      "category_fit": "match",
-      "category_review_status": "manual_confirmed",
-      "category_review_context_hash": "2157ea737a76b3a6d9e171778f66baa0901167102cd9441a43911f1ebc2ca0fe",
-      "manual_confirmation_context_hash": "2157ea737a76b3a6d9e171778f66baa0901167102cd9441a43911f1ebc2ca0fe",
-      "caption": "黑袍白领、双手合十，奶蛙版修女立绘，一本正经地祈祷快乐降临。",
-      "tags": [
-        "category:work",
-        "奶蛙",
-        "上班学习",
-        "静态图",
-        "姿势-修女式"
-      ],
-      "visible_text": "",
-      "caption_status": "done",
-      "provenance": "manual",
-      "manual_override": true,
-      "manual_caption": "黑袍白领、双手合十，奶蛙版修女立绘，一本正经地祈祷快乐降临。",
-      "manual_tags": [
-        "奶蛙",
-        "上班学习",
-        "静态图",
-        "姿势-修女式"
-      ],
-      "prompt_version": "",
-      "updated_at": "2026-10-29T10:00:00Z"
+      "updated_at": "2026-10-29T10:15:32.604776+00:00"
     },
     "66a4b7619c2f4decea14d175533aeabbb00a35cf4a9db57a95ea7994d204d779": {
       "entry_id": "66a4b7619c2f4decea14d175533aeabbb00a35cf4a9db57a95ea7994d204d779",
@@ -3132,7 +2860,7 @@
         "姿势-出诊"
       ],
       "prompt_version": "",
-      "updated_at": "2026-10-29T10:00:00Z"
+      "updated_at": "2026-10-29T10:15:32.604776+00:00"
     },
     "93b1ad35796d35bb0dcbc9fc5520531eb9089ce09254687caaa114bb107be558": {
       "entry_id": "93b1ad35796d35bb0dcbc9fc5520531eb9089ce09254687caaa114bb107be558",
@@ -3166,7 +2894,7 @@
         "姿势-厨师"
       ],
       "prompt_version": "",
-      "updated_at": "2026-10-29T10:00:00Z"
+      "updated_at": "2026-10-29T10:15:32.604776+00:00"
     },
     "bb90079a5fd5875ff86c9b0a1f0d8a460129afd658bdbd92d7747ed8236b15ee": {
       "entry_id": "bb90079a5fd5875ff86c9b0a1f0d8a460129afd658bdbd92d7747ed8236b15ee",
@@ -3200,7 +2928,7 @@
         "姿势-双份薯条"
       ],
       "prompt_version": "",
-      "updated_at": "2026-10-29T10:00:00Z"
+      "updated_at": "2026-10-29T10:15:32.604776+00:00"
     },
     "c1454cc3fa97412a153db9a7bd6008c10c2f427ab19a17668614cd322563896d": {
       "entry_id": "c1454cc3fa97412a153db9a7bd6008c10c2f427ab19a17668614cd322563896d",
@@ -3234,7 +2962,7 @@
         "姿势-听诊式"
       ],
       "prompt_version": "",
-      "updated_at": "2026-10-29T10:00:00Z"
+      "updated_at": "2026-10-29T10:15:32.604776+00:00"
     },
     "ab9ebbbc575b89a7cc4f1e4bc897e0a68f9ee2e528826d75328413ce392cc5a4": {
       "entry_id": "ab9ebbbc575b89a7cc4f1e4bc897e0a68f9ee2e528826d75328413ce392cc5a4",
@@ -3268,7 +2996,7 @@
         "姿势-啃香肠"
       ],
       "prompt_version": "",
-      "updated_at": "2026-10-29T10:00:00Z"
+      "updated_at": "2026-10-29T10:15:32.604776+00:00"
     },
     "ea68b0fe07e17b72f94f083372e00a24466fc508efd9086d9d5416681f92cf5c": {
       "entry_id": "ea68b0fe07e17b72f94f083372e00a24466fc508efd9086d9d5416681f92cf5c",
@@ -3302,7 +3030,7 @@
         "姿势-喝饮料"
       ],
       "prompt_version": "",
-      "updated_at": "2026-10-29T10:00:00Z"
+      "updated_at": "2026-10-29T10:15:32.604776+00:00"
     },
     "432e4b2747a0ced1c5473813eb976c98307996d657b3f6feafd28d3b72c0ab56": {
       "entry_id": "432e4b2747a0ced1c5473813eb976c98307996d657b3f6feafd28d3b72c0ab56",
@@ -3336,7 +3064,7 @@
         "姿势-委屈"
       ],
       "prompt_version": "",
-      "updated_at": "2026-10-29T10:00:00Z"
+      "updated_at": "2026-10-29T10:15:32.604776+00:00"
     },
     "bce814054cf5642639bb7f0ba97a54fd0b945927e344791b6fa937468e3a7c45": {
       "entry_id": "bce814054cf5642639bb7f0ba97a54fd0b945927e344791b6fa937468e3a7c45",
@@ -3370,7 +3098,7 @@
         "姿势-学生"
       ],
       "prompt_version": "",
-      "updated_at": "2026-10-29T10:00:00Z"
+      "updated_at": "2026-10-29T10:15:32.604776+00:00"
     },
     "5072151bd882cb501f61887514dcffdb3c9dc5878e0ad2e116ea1ab9e4f36c9a": {
       "entry_id": "5072151bd882cb501f61887514dcffdb3c9dc5878e0ad2e116ea1ab9e4f36c9a",
@@ -3404,41 +3132,7 @@
         "姿势-抱兔兔"
       ],
       "prompt_version": "",
-      "updated_at": "2026-10-29T10:00:00Z"
-    },
-    "8d3dc8e894274ebcbb9eb49988a6f64d836687d22a4a8e8c7d0dcbd5ad8a53c9": {
-      "entry_id": "8d3dc8e894274ebcbb9eb49988a6f64d836687d22a4a8e8c7d0dcbd5ad8a53c9",
-      "content_sha256": "00b247aafaa87cf1990c6f28031190d8bf3ea9b20f5ce07fe1369e056456a095",
-      "relative_path": "memes/work/奶蛙-姿势-拄杖.webp",
-      "category": "work",
-      "category_description": "上班学习：上班、加班、学习、专业角色扮演、侦探、医生、厨师、摄影师等场景梗。",
-      "category_tag": "category:work",
-      "category_context_hash": "42bfbe9b9d58cc0725ec2e69938b598d0b8f4914489684e0dd461d4857b5c1d7",
-      "category_fit": "match",
-      "category_review_status": "manual_confirmed",
-      "category_review_context_hash": "42bfbe9b9d58cc0725ec2e69938b598d0b8f4914489684e0dd461d4857b5c1d7",
-      "manual_confirmation_context_hash": "42bfbe9b9d58cc0725ec2e69938b598d0b8f4914489684e0dd461d4857b5c1d7",
-      "caption": "西装马甲配手杖，奶蛙版老派绅士。",
-      "tags": [
-        "category:work",
-        "奶蛙",
-        "上班学习",
-        "静态图",
-        "姿势-拄杖"
-      ],
-      "visible_text": "",
-      "caption_status": "done",
-      "provenance": "manual",
-      "manual_override": true,
-      "manual_caption": "西装马甲配手杖，奶蛙版老派绅士。",
-      "manual_tags": [
-        "奶蛙",
-        "上班学习",
-        "静态图",
-        "姿势-拄杖"
-      ],
-      "prompt_version": "",
-      "updated_at": "2026-10-29T10:00:00Z"
+      "updated_at": "2026-10-29T10:15:32.604776+00:00"
     },
     "ff933d41ed366b47a55fe8372dd764084689062d4c88a9853d2f2d73872ba1b5": {
       "entry_id": "ff933d41ed366b47a55fe8372dd764084689062d4c88a9853d2f2d73872ba1b5",
@@ -3472,7 +3166,7 @@
         "姿势-捧炸鸡"
       ],
       "prompt_version": "",
-      "updated_at": "2026-10-29T10:00:00Z"
+      "updated_at": "2026-10-29T10:15:32.604776+00:00"
     },
     "a39d041f5174e0cbaed71e13479e2e4740d020c283d006fba776420c187f7796": {
       "entry_id": "a39d041f5174e0cbaed71e13479e2e4740d020c283d006fba776420c187f7796",
@@ -3506,41 +3200,7 @@
         "姿势-摄影师"
       ],
       "prompt_version": "",
-      "updated_at": "2026-10-29T10:00:00Z"
-    },
-    "9786fbfc3b3edee5a6a6dc0fb1ded0633cbc1dd6dfc2fe7666bade94b3ad0c49": {
-      "entry_id": "9786fbfc3b3edee5a6a6dc0fb1ded0633cbc1dd6dfc2fe7666bade94b3ad0c49",
-      "content_sha256": "d675daee4f5e32ec470b7881ef7499d7c128be3917facd88f67fdde3021cd4f4",
-      "relative_path": "memes/work/奶蛙-姿势-朋克头.webp",
-      "category": "work",
-      "category_description": "上班学习：上班、加班、学习、专业角色扮演、侦探、医生、厨师、摄影师等场景梗。",
-      "category_tag": "category:work",
-      "category_context_hash": "be86a5af4be9b49ac32e0a4686884474e443ffe78b033e2072e78481ec7d42d2",
-      "category_fit": "match",
-      "category_review_status": "manual_confirmed",
-      "category_review_context_hash": "be86a5af4be9b49ac32e0a4686884474e443ffe78b033e2072e78481ec7d42d2",
-      "manual_confirmation_context_hash": "be86a5af4be9b49ac32e0a4686884474e443ffe78b033e2072e78481ec7d42d2",
-      "caption": "紫红莫西干、铆钉皮衣，奶蛙偶尔也想摇滚一次。",
-      "tags": [
-        "category:work",
-        "奶蛙",
-        "上班学习",
-        "静态图",
-        "姿势-朋克头"
-      ],
-      "visible_text": "",
-      "caption_status": "done",
-      "provenance": "manual",
-      "manual_override": true,
-      "manual_caption": "紫红莫西干、铆钉皮衣，奶蛙偶尔也想摇滚一次。",
-      "manual_tags": [
-        "奶蛙",
-        "上班学习",
-        "静态图",
-        "姿势-朋克头"
-      ],
-      "prompt_version": "",
-      "updated_at": "2026-10-29T10:00:00Z"
+      "updated_at": "2026-10-29T10:15:32.604776+00:00"
     },
     "2f072f6bb2acb6e264e565d2c250366d369820c0cc8d4713ba45eef734c05647": {
       "entry_id": "2f072f6bb2acb6e264e565d2c250366d369820c0cc8d4713ba45eef734c05647",
@@ -3574,7 +3234,7 @@
         "姿势-炸鸡加可乐"
       ],
       "prompt_version": "",
-      "updated_at": "2026-10-29T10:00:00Z"
+      "updated_at": "2026-10-29T10:15:32.604776+00:00"
     },
     "4db8dfa74e8c57fdd0adcce8b525ce43ffd0c38b30263a86e50ba78db5325c04": {
       "entry_id": "4db8dfa74e8c57fdd0adcce8b525ce43ffd0c38b30263a86e50ba78db5325c04",
@@ -3608,7 +3268,7 @@
         "姿势-爆米花"
       ],
       "prompt_version": "",
-      "updated_at": "2026-10-29T10:00:00Z"
+      "updated_at": "2026-10-29T10:15:32.604776+00:00"
     },
     "de706abf488ff11dcb6b9dc030e9cb026f3ab8e4e1f7474340d8aa6c71368190": {
       "entry_id": "de706abf488ff11dcb6b9dc030e9cb026f3ab8e4e1f7474340d8aa6c71368190",
@@ -3642,7 +3302,7 @@
         "姿势-甜筒"
       ],
       "prompt_version": "",
-      "updated_at": "2026-10-29T10:00:00Z"
+      "updated_at": "2026-10-29T10:15:32.604776+00:00"
     },
     "0baf43fc104fe2026144d22c10e59f1dccca7ac6f8dc469ce42168b7225e732c": {
       "entry_id": "0baf43fc104fe2026144d22c10e59f1dccca7ac6f8dc469ce42168b7225e732c",
@@ -3676,7 +3336,7 @@
         "姿势-看杂志"
       ],
       "prompt_version": "",
-      "updated_at": "2026-10-29T10:00:00Z"
+      "updated_at": "2026-10-29T10:15:32.604776+00:00"
     },
     "0ba0b70c405e67eb1c647f53266e9993e065ef39a252773cb63203d6507fc31c": {
       "entry_id": "0ba0b70c405e67eb1c647f53266e9993e065ef39a252773cb63203d6507fc31c",
@@ -3710,7 +3370,7 @@
         "姿势-绅士"
       ],
       "prompt_version": "",
-      "updated_at": "2026-10-29T10:00:00Z"
+      "updated_at": "2026-10-29T10:15:32.604776+00:00"
     },
     "652923a37bfde1e67958ee9bf6af39749dbe1bdcc500e1d3c53db59cf6484db4": {
       "entry_id": "652923a37bfde1e67958ee9bf6af39749dbe1bdcc500e1d3c53db59cf6484db4",
@@ -3744,7 +3404,7 @@
         "姿势-薯条"
       ],
       "prompt_version": "",
-      "updated_at": "2026-10-29T10:00:00Z"
+      "updated_at": "2026-10-29T10:15:32.604776+00:00"
     }
   }
 }
